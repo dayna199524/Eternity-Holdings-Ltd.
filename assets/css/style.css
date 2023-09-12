@@ -16,5 +16,27 @@ h1 {
 
 nav {
     background-color: black;
+    position: relative;
+}
+
+.navbar-toggler {
+    border-width: 3px;
+    background-color: rgba(113, 210, 249, 0.75);
+}
+
+.navbar-nav {
+    position: absolute;
+    bottom: 16px;
+    right: 10px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #cecece;
+    font-family: 'Playfair', serif;
+    font-size: 1.3em;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #71d2f9;
 }
 
