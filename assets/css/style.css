@@ -1,0 +1,20 @@
+/* NAVBAR */
+
+#logo {
+    
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: bottom;
+    font-family: 'Playfair', serif;
+    font-weight: 500;
+    color: white;
+    letter-spacing: -1px;
+   
+}
+
+nav {
+    background-color: black;
+}
+
