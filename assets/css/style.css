@@ -1,9 +1,4 @@
 /* NAVBAR */
-nav {
-    color: black;
-    height: 50px;
-    width: 50px;
-}
 
 #navbar-title {
     float: left;
@@ -60,37 +55,4 @@ nav {
 }
 
 
-
-h1 {
-    display: inline-block;
-    vertical-align: bottom;
-    font-family: 'Playfair', serif;
-    font-weight: 500;
-    color: white;
-    letter-spacing: -1px;
-   
-}
-
-
-
-.navbar-toggler {
-    border-width: 3px;
-    background-color: rgba(113, 210, 249, 0.75);
-}
-
-.navbar-nav {
-    position: absolute;
-    bottom: 16px;
-    right: 10px;
-}
-
-.navbar-dark .navbar-nav .nav-link {
-    color: #cecece;
-    font-family: 'Playfair', serif;
-    font-size: 1.3em;
-}
-
-.navbar-dark .navbar-nav .nav-link:hover {
-    color: #71d2f9;
-}
 
