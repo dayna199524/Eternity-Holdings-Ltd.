@@ -33,10 +33,6 @@
     font-weight: 500;
 }
 
-.navbar-dark .navbar-brand {
-    margin-left: 10px;
-}
-
 /* MEDIA QUERIES */
 
 @media (min-width: 360px) and (max-width: 480px) {

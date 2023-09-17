@@ -5,8 +5,7 @@
 }
 
 .container-fluid {
-    padding: 0;
-    margin: 0;
+    padding-left: 10px;
 }
 
 #eternity-nav {
@@ -19,10 +18,8 @@
     text-decoration-color: #007ecb;
     text-underline-offset: 5px;
     text-decoration-thickness: 2px;
-    font-weight: 500;
     
 }
-
 
 .navbar-dark .navbar-nav .nav-link {
     color: black;
@@ -30,11 +27,6 @@
 
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #007ecb;
-    font-weight: 500;
-}
-
-.navbar-dark .navbar-brand {
-    margin-left: 10px;
 }
 
 /* MEDIA QUERIES */
