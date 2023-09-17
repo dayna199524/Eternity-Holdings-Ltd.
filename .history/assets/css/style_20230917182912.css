@@ -30,8 +30,9 @@
 
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #007ecb;
+    font-weight: 500;
 }
-
+.navbar-expand-md .navbar-nav .nav-link
 .navbar-dark .navbar-brand {
     margin-left: 10px;
 }
