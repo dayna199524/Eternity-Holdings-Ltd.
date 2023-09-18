@@ -53,7 +53,9 @@
 
 /* FOOTER */
 
-
+footer i {
+    font-size: 16px;
+}
 
 /* MEDIA QUERIES */
 
