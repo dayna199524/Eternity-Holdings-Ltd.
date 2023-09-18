@@ -64,7 +64,8 @@
 .eternity-button {
     background-color: #0474c4;
     border-color: #0474c4;
-    font-family: 'Montserrat', sans-serif;   
+    /*font-family: 'Montserrat', sans-serif;*/
+    font-family: 'DM Sans', sans-serif;
     text-transform: uppercase;
     font-weight: 500;
     font-size: 16px;
