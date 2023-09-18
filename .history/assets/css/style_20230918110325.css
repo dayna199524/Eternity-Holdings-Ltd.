@@ -19,17 +19,17 @@
     text-decoration-color: #007ecb;
     text-underline-offset: 5px;
     text-decoration-thickness: 2px;
-    font-weight: 600;
+    font-weight: 500;
     
 }
 
 
 .navbar-dark .navbar-nav .nav-link {
     color: black;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Playfair', serif;
     text-transform: uppercase;
-    font-weight: 500;
-    font-size: 20px;
+    font-weight: 700;
+    font-size: 16px;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
