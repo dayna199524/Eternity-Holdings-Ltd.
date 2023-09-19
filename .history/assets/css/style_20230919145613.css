@@ -70,20 +70,11 @@
     font-size: 16px;
     width: 220px;
     display: flex;
-    text-align: center;
 }
 
 .eternity-button:hover {
     background-color:#00418d;
     border-color:#00418d;
-}
-
-footer .eternity-button i {
-    line-height: 1em;
-}
-
-footer a {
-    text-decoration: none;
 }
 
 /* HERO IMAGE */
@@ -123,8 +114,8 @@ h1 {
     top: 75px;
 }
 
-.hero-overlay .btn i {
-    line-height: 1em;
+#hero-overlay .btn .fa-lg {
+    line-height: 0;
 }
 
 
@@ -141,7 +132,7 @@ h1 {
         height: 30px;
     }
 
-    .hero-overlay i {
+    #hero-image i {
         flex-direction: column;
     }
 }
