@@ -140,9 +140,6 @@ h1 {
 
 #choose-us-header {
     text-decoration: underline;
-    text-underline-offset: 15px;
-    letter-spacing: 0px;
-    font-weight: 600;
 }
 
 /* MEDIA QUERIES */

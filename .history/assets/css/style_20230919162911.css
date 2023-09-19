@@ -131,19 +131,8 @@ h1 {
     text-decoration: none;
 }
 
-/* WHY CHOOSE US */
 
-#choose-us-header, .section-header {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
-}
 
-#choose-us-header {
-    text-decoration: underline;
-    text-underline-offset: 15px;
-    letter-spacing: 0px;
-    font-weight: 600;
-}
 
 /* MEDIA QUERIES */
 
