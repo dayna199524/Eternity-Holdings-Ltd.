@@ -145,16 +145,9 @@ h1 {
         height: 30px;
     }
 
-    .hero-overlay .eternity-button {
-        width: 150px;
-        height: 65px;
-        font-size: 16px;
-        margin: 15px!important;
-    }
-
-    footer a .eternity-button {
-        width: 150px;
-    }
+        .eternity-button {
+            width: 150px;
+        }
 
    
 }
@@ -171,12 +164,9 @@ h1 {
         height: 36px;
     }
 
-    .hero-overlay .eternity-button {
-        width: 150px;
-        height: 65px;
-        font-size: 16px;
-    }
-
+    .eternity-button {
+             width: 150px;
+         }
 }
 
 

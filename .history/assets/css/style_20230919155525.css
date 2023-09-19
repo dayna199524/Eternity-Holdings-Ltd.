@@ -152,9 +152,9 @@ h1 {
         margin: 15px!important;
     }
 
-    footer a .eternity-button {
-        width: 150px;
-    }
+        footer a .eternity-button {
+            width: 150px;
+        }
 
    
 }
@@ -177,6 +177,9 @@ h1 {
         font-size: 16px;
     }
 
+    footer a .eternity-button {
+        width: 150px;
+    }
 }
 
 
