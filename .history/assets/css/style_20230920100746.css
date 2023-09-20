@@ -149,11 +149,6 @@ h1 {
     color: #00418d;
 }
 
-.reasons {
-    font-family: 'Montserrat', sans-serif;
-}
-
-
 /* MEDIA QUERIES */
 
 @media (min-width: 360px) and (max-width: 480px) {
