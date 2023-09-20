@@ -133,7 +133,7 @@ h1 {
 
 /* WHY CHOOSE US */
 
-.eternity-header, .section-header {
+#choose-us-header, .section-header {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
@@ -151,16 +151,6 @@ h1 {
 
 .reasons {
     font-family: 'Montserrat', sans-serif;
-}
-
-/* TESTIMONIALS */
-
-.testimonial-container {
-    background-color: rgba(0,0,0,0.2)
-}
-
-.review-container {
-    background-color:#0474c4;
 }
 
 

@@ -156,10 +156,7 @@ h1 {
 /* TESTIMONIALS */
 
 .testimonial-container {
-    background-color: rgba(0,0,0,0.2)
-}
-
-.review-container {
+    /*background-color: rgba(0,0,0,0.2)*/
     background-color:#0474c4;
 }
 
