@@ -160,10 +160,8 @@ h1 {
 }
 
 .review-container {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba;
     border-radius: 20px;
-    color: white;
-    font-family: 'Montserrat', sans-serif;
 }
 
 .review-image {
