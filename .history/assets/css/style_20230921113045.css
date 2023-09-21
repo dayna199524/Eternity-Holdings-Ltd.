@@ -165,35 +165,20 @@ h1 {
 }
 
 .review-image {
-    width: 150px;
-        height: 150px;        
-        border-style: solid;
-        border-color: #cccccc;
-        border-width: 1px;
-        border-radius: 50%;
-        margin: 0 auto;
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 120px;
+    height: 120px;
 }
 
 #review-woman-one {
-            background: url('../images/review-woman-one.jpg') no-repeat top left;
+    #circle-cover-bg {
+            background: url('http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png') no-repeat center center;
             height: 100%;
             border-radius: 50%;
-            background-size: cover;
+            width: 105px" height="150px
         }
-
-#review-man-one {
-        background: url('../images/review-man-one.jpg') no-repeat top left;
-        height: 100%;
-        border-radius: 50%;
-        background-size: cover;
-    }
-
-#review-woman-two {
-        background: url('../images/review-woman-two.jpg') no-repeat top left;
-        height: 100%;
-        border-radius: 50%;
-        background-size: cover;
-    }
+}
 
 
 

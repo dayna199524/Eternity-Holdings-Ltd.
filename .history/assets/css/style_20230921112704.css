@@ -165,35 +165,9 @@ h1 {
 }
 
 .review-image {
-    width: 150px;
-        height: 150px;        
-        border-style: solid;
-        border-color: #cccccc;
-        border-width: 1px;
-        border-radius: 50%;
-        margin: 0 auto;
+    border-radius: 50%;
+    border: 2px solid black;
 }
-
-#review-woman-one {
-            background: url('../images/review-woman-one.jpg') no-repeat top left;
-            height: 100%;
-            border-radius: 50%;
-            background-size: cover;
-        }
-
-#review-man-one {
-        background: url('../images/review-man-one.jpg') no-repeat top left;
-        height: 100%;
-        border-radius: 50%;
-        background-size: cover;
-    }
-
-#review-woman-two {
-        background: url('../images/review-woman-two.jpg') no-repeat top left;
-        height: 100%;
-        border-radius: 50%;
-        background-size: cover;
-    }
 
 
 

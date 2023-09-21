@@ -165,8 +165,8 @@ h1 {
 }
 
 .review-image {
-    width: 150px;
-        height: 150px;        
+    width: 175px;
+        height: 175px;        
         border-style: solid;
         border-color: #cccccc;
         border-width: 1px;
@@ -175,25 +175,12 @@ h1 {
 }
 
 #review-woman-one {
-            background: url('../images/review-woman-one.jpg') no-repeat top left;
+            background: url('../images/review-woman-one.jpg') no-repeat center center;
             height: 100%;
             border-radius: 50%;
-            background-size: cover;
+            background-size: 50%;
         }
-
-#review-man-one {
-        background: url('../images/review-man-one.jpg') no-repeat top left;
-        height: 100%;
-        border-radius: 50%;
-        background-size: cover;
-    }
-
-#review-woman-two {
-        background: url('../images/review-woman-two.jpg') no-repeat top left;
-        height: 100%;
-        border-radius: 50%;
-        background-size: cover;
-    }
+}
 
 
 

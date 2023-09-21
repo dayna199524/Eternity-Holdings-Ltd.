@@ -182,14 +182,14 @@ h1 {
         }
 
 #review-man-one {
-        background: url('../images/review-man-one.jpg') no-repeat top left;
+        background: url('../images/review-woman-one.jpg') no-repeat top left;
         height: 100%;
         border-radius: 50%;
         background-size: cover;
     }
 
 #review-woman-two {
-        background: url('../images/review-woman-two.jpg') no-repeat top left;
+        background: url('../images/review-woman-one.jpg') no-repeat top left;
         height: 100%;
         border-radius: 50%;
         background-size: cover;
