@@ -272,7 +272,7 @@ h1 {
 
         #invest-sell-heading h2 {
             font-size: 22px;
-            line-height: 2.5;
+            margin-top: 10px;
         }
 
    
@@ -297,7 +297,7 @@ h1 {
     }
 
         #invest-sell-heading h2 {
-            font-size: 26px;
+            font-size: 30px;
         }
 
 }
