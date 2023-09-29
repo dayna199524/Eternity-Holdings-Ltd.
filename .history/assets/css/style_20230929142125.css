@@ -241,10 +241,7 @@ h1 {
         background-position-x: center;
         background-position-y: center;
         width: 80%;
-        height: 200px;
-        display: flex;
-            justify-content: center;
-            align-items: center;
+            height: 200px;
 }
 
 #invest-sell-heading h2 {

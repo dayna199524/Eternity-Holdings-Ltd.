@@ -220,36 +220,10 @@ h1 {
     text-decoration: none;
 }
 
-/*.invest-sell-watermark {
+.invest-sell-heading {
     background-image: url("../images/logo\ 9\ only.png");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position-x: center;
-    background-position-y: center;
-    opacity: 0.35;
-    position: relative;
-    width: 80%;
-    height: 200px;
-}*/
-
-#invest-sell-heading {
-    
-    color: black;
-    background-image: url("../images/watermark-logo-only.png");
-        background-repeat: no-repeat;
-        background-size: contain;
-        background-position-x: center;
-        background-position-y: center;
-        width: 80%;
-        height: 200px;
-        display: flex;
-            justify-content: center;
-            align-items: center;
-}
-
-#invest-sell-heading h2 {
-    opacity: 1;
-    font-family: 'Montserrat', sans-serif;
+    background-repeat: no-repeat
+    background-size
 }
 
 
