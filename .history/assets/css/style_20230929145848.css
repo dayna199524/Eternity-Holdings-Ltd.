@@ -224,6 +224,7 @@ h1 {
 }
 
 #invest-sell-heading h2 {
+    opacity: 1;
     font-family: 'Montserrat', sans-serif;
     line-height: 2em;
     font-weight: 400;
@@ -236,8 +237,6 @@ h1 {
     text-align: justify;
     text-align-last: center;
     color: white;
-    font-family: 'Montserrat', sans-serif;
-    letter-spacing: 2px;
 }
 
 .invest-sell-container button {
