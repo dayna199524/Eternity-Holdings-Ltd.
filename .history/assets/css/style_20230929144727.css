@@ -203,16 +203,13 @@ h1 {
 
 /* INVEST/SELL HEADING SECTION */
 
-.invest-sell-container {
-    background-color: black;
+.invest-logo {
+    opacity: 0.5;
 }
-
-
 
 .invest-sell-container p {
     text-align: justify;
     text-align-last: center;
-    color: white;
 }
 
 .invest-sell-container button {
@@ -225,14 +222,18 @@ h1 {
 
 
 #invest-sell-heading {
+    
     color: black;
     background-image: url("../images/watermark-logo-only.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;
     background-position-y: center;
-    width: 100%;
+    width: 80%;
     height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #invest-sell-heading h2 {
@@ -241,8 +242,7 @@ h1 {
     line-height: 2em;
     font-weight: 400;
     font-size: 36px;
-    letter-spacing: 4px;
-    color: white;
+    letter-spacing: 2px;
 }
 
 

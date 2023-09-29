@@ -226,7 +226,7 @@ h1 {
 
 #invest-sell-heading {
     color: black;
-    background-image: url("../images/watermark-logo-only.png");
+    background-image: url("../images/log");
     background-repeat: no-repeat;
     background-size: contain;
     background-position-x: center;
@@ -241,7 +241,7 @@ h1 {
     line-height: 2em;
     font-weight: 400;
     font-size: 36px;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     color: white;
 }
 

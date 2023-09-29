@@ -212,7 +212,6 @@ h1 {
 .invest-sell-container p {
     text-align: justify;
     text-align-last: center;
-    color: white;
 }
 
 .invest-sell-container button {
@@ -241,7 +240,7 @@ h1 {
     line-height: 2em;
     font-weight: 400;
     font-size: 36px;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     color: white;
 }
 
