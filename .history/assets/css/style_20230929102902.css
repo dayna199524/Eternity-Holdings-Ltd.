@@ -204,22 +204,8 @@ h1 {
 /* INVEST/SELL HEADING SECTION */
 
 .invest-logo {
-    opacity: 0.5;
+    opacity: 0.6;
 }
-
-.invest-sell-container p {
-    text-align: justify;
-    text-align-last: center;
-}
-
-.invest-sell-container button {
-    width: 175px;
-}
-
-.invest-sell-container a {
-    text-decoration: none;
-}
-
 
 
 /* MEDIA QUERIES */

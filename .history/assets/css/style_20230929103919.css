@@ -213,13 +213,8 @@ h1 {
 }
 
 .invest-sell-container button {
-    width: 175px;
+    margin: 0;
 }
-
-.invest-sell-container a {
-    text-decoration: none;
-}
-
 
 
 /* MEDIA QUERIES */
