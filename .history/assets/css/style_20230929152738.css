@@ -249,10 +249,9 @@ h1 {
 /* MEDIA QUERIES */
 
 @media (min-width: 300px) and (max-width: 359px) {
-    /*.hero-overlay .eternity-button {
+    .hero-overlay .eternity-button {
         margin: 5px!important;
-        width: 130px;
-    }*/
+    }
 }
 
 @media (min-width: 360px) and (max-width: 480px) {
