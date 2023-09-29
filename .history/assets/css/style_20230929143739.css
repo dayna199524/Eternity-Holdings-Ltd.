@@ -239,10 +239,9 @@ h1 {
 #invest-sell-heading h2 {
     opacity: 1;
     font-family: 'Montserrat', sans-serif;
-    line-height: 2em;
+    line-height: 2;
     font-weight: 400;
     font-size: 36px;
-    letter-spacing: 2px;
 }
 
 

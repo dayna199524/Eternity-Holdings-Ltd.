@@ -230,19 +230,15 @@ h1 {
     background-position-x: center;
     background-position-y: center;
     width: 80%;
-    height: 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+        height: 200px;
+        display: flex;
+            justify-content: center;
+            align-items: center;
 }
 
 #invest-sell-heading h2 {
     opacity: 1;
     font-family: 'Montserrat', sans-serif;
-    line-height: 2em;
-    font-weight: 400;
-    font-size: 36px;
-    letter-spacing: 2px;
 }
 
 
