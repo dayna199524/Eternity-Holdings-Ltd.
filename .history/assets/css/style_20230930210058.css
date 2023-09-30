@@ -254,13 +254,8 @@ h1 {
         margin: 5px!important;
         width: 130px;
     }*/
-    .navbar-brand .icon-logo {
+    nav .icon-logo {
         display: none;
-    }
-    
-    .navbar-brand .title-logo {
-        width: 233px;
-        height: 30px;
     }
 }
 

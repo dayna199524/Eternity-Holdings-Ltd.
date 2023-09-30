@@ -257,11 +257,6 @@ h1 {
     .navbar-brand .icon-logo {
         display: none;
     }
-    
-    .navbar-brand .title-logo {
-        width: 233px;
-        height: 30px;
-    }
 }
 
 @media (min-width: 360px) and (max-width: 480px) {
