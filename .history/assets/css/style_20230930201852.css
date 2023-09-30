@@ -253,7 +253,9 @@ h1 {
         margin: 5px!important;
         width: 130px;
     }*/
-    
+    *footer .eternity-button {
+            width: 150px;
+    }*/
 }
 
 @media (min-width: 360px) and (max-width: 480px) {

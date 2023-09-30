@@ -69,6 +69,8 @@
     font-weight: 500;
     font-size: 16px;
     width: 220px;
+    display: flex;
+    text-align: center;
 }
 
 .eternity-button:hover {
@@ -83,8 +85,6 @@ footer .eternity-button i {
 footer a {
     text-decoration: none;
 }
-
-
 
 /* HERO IMAGE */
 
@@ -253,7 +253,6 @@ h1 {
         margin: 5px!important;
         width: 130px;
     }*/
-    
 }
 
 @media (min-width: 360px) and (max-width: 480px) {
@@ -274,9 +273,9 @@ h1 {
         margin: 15px!important;
     }
 
-    /*footer a .eternity-button {
+    footer a .eternity-button {
         width: 150px;
-    }*/
+    }
 
         #invest-sell-heading h2 {
             font-size: 22px;

@@ -84,8 +84,6 @@ footer a {
     text-decoration: none;
 }
 
-
-
 /* HERO IMAGE */
 
 #hero-image {
@@ -253,7 +251,6 @@ h1 {
         margin: 5px!important;
         width: 130px;
     }*/
-    
 }
 
 @media (min-width: 360px) and (max-width: 480px) {

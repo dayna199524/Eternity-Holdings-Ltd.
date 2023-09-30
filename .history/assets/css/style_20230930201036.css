@@ -84,7 +84,9 @@ footer a {
     text-decoration: none;
 }
 
-
+.footer-button-container {
+    text-align: center;
+}
 
 /* HERO IMAGE */
 
@@ -253,7 +255,6 @@ h1 {
         margin: 5px!important;
         width: 130px;
     }*/
-    
 }
 
 @media (min-width: 360px) and (max-width: 480px) {
