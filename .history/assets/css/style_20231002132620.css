@@ -256,6 +256,9 @@ h1 {
     font-family: 'Montserrat', sans-serif;
 }
 
+.property-card p,
+.property-card li
+
 .property-card h3 {
     font-size: 27px;
 }

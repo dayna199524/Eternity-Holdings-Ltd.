@@ -252,7 +252,7 @@ h1 {
     border: 3px solid #0474c4;
 }
 
-.property-card h3, .property-card p, .property-card li {
+.property-card h3, .property-card p {
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -269,7 +269,7 @@ h1 {
     
 }
 
-.example-deals-container div p {
+.example-deals-container div p,  {
     display:inline-block;
     font-family: 'Montserrat', sans-serif;
 }
