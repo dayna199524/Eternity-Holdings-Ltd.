@@ -260,9 +260,9 @@ h1 {
         height: 30px;
     }
 
-    #hero-image>div>div>button:nth-child(1)>a>i {
-        display: none;
-    }
+        #hero-image>div>div>button:nth-child(1) {
+            
+        }
    
 
    

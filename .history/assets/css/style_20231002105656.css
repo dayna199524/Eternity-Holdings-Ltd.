@@ -260,10 +260,9 @@ h1 {
         height: 30px;
     }
 
-    #hero-image>div>div>button:nth-child(1)>a>i {
-        display: none;
+    .hero-overlay h1 {
+        font-size: 20px;
     }
-   
 
    
 }

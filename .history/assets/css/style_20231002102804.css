@@ -249,7 +249,7 @@ h1 {
 
 /* MEDIA QUERIES */
 
-@media screen and (max-width: 300px) and (min-width: 359px) {
+@media (min-width: 300px) and (max-width: 359px) {
     
     .navbar-brand .icon-logo {
         display: none;
@@ -260,15 +260,16 @@ h1 {
         height: 30px;
     }
 
-    #hero-image>div>div>button:nth-child(1)>a>i {
-        display: none;
+    .hero-overlay h1 {
+        font-size: 20px;
     }
-   
 
-   
+    .hero-overlay .eternity-button {
+        width: 50px;
+    }
 }
 
-@media screen and (max-width: 360px) and (min-width: 480px) {
+@media (min-width: 360px) and (max-width: 480px) {
     
     .navbar-brand .icon-logo {
         display: none;
@@ -279,14 +280,31 @@ h1 {
         height: 30px;
     }
 
-    #invest-sell-heading h2 {
+    .hero-overlay {
+        width: 100%
+        height: 100%;
+    }
+
+    /*.hero-overlay .eternity-button {
+        width: 150px;
+        height: 65px;
+        font-size: 16px;
+        margin: 15px!important;
+    }*/
+
+    /*footer a .eternity-button {
+        width: 150px;
+    }*/
+
+        #invest-sell-heading h2 {
             font-size: 22px;
             line-height: 2.5;
-    }
-  
+        }
+
+   
 }
 
-@media screen and (max-width: 481px) and (min-width: 768px) {
+@media (min-width: 481px) and (max-width: 768px) {
 
     .navbar-brand .icon-logo {
         width: 55px;
