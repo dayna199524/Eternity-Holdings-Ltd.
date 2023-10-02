@@ -51,7 +51,7 @@
     background-image: url("../images/Eternity-Burger-Menu.png");
 }
 
-#navbarSupportedContent {
+.collapse .navbar-collapse {
     justify-content: right;
 }
 
@@ -327,7 +327,7 @@ h1 {
     .navbar-brand .title-logo {
         width: 233px;
         height: 30px;
-        margin-left: 6px;
+        margin-left: 5px;
         display: inline;
     }
 

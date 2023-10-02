@@ -321,13 +321,13 @@ h1 {
     }
 
     .navbar-dark .navbar-brand {
-        margin: 0;
+        margin: 2px 0;
     }
     
     .navbar-brand .title-logo {
         width: 233px;
         height: 30px;
-        margin-left: 6px;
+        margin-left: 5px;
         display: inline;
     }
 
