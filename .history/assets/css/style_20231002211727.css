@@ -315,7 +315,6 @@ h1 {
     background-color:black;
     color: white;
     border-bottom: 2px solid #00418d;
-    font-weight: 500;
 }
 
 .example-deals-container table tr {
@@ -330,9 +329,6 @@ h1 {
     font-weight: 500;
 }
 
-.eternity-table {
-    
-}
 
 /* CONTACT FORM */
 
