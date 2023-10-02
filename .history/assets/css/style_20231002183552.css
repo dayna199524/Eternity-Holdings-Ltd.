@@ -318,10 +318,7 @@ h1 {
 
 /* CONTACT FORM */
 
-.contact-textarea {
-    overflow-y: scroll;
-}
-
+overflow-y: scroll;
 
 
 /* MEDIA QUERIES */

@@ -321,7 +321,7 @@ h1 {
 .contact-textarea {
     overflow-y: scroll;
 }
-
+overflow-y: scroll;
 
 
 /* MEDIA QUERIES */
