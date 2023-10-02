@@ -72,7 +72,7 @@
     text-transform: uppercase;
     font-weight: 400;
     font-size: 16px;
-    width: 170px;
+    width: 220px;
     text-decoration: none;
     color: white;
     letter-spacing: 2px;
@@ -87,17 +87,12 @@ footer .eternity-button i {
     line-height: 1em;
 }
 
-footer button a {
+/*footer button a {
     text-decoration: none;
-}
+}*/
 
 footer {
     background-color: black;
-}
-
-.eternity-text {
-    font-family: 'Montserrat', sans-serif;
-    letter-spacing: 2px;
 }
 
 
@@ -133,9 +128,10 @@ h1 {
     margin-top: -100px;*/
 }
 
-.hero-overlay .eternity-button {
-    width: 235px;
-}
+/*.hero-overlay .btn {
+    position: relative;
+    top: 75px;
+}*/
 
 .hero-overlay .btn i {
     line-height: 1em;
@@ -229,6 +225,8 @@ h1 {
 .invest-sell-container button a {
     text-decoration: none;
     color: white;
+    font-weight: 400;
+    letter-spacing: 2px;
 }
 
 
@@ -425,9 +423,9 @@ h1 {
         font-size: 26px;
     }
 
-    /*.hero-overlay .eternity-button {
+    .hero-overlay .eternity-button {
         width: 170px;
-    }*/
+    }
 
     .hero-overlay .eternity-button i {
         display: block;

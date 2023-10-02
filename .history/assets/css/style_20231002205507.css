@@ -70,12 +70,9 @@
     border-color: #0474c4;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 16px;
-    width: 170px;
-    text-decoration: none;
-    color: white;
-    letter-spacing: 2px;
+    width: 220px;
 }
 
 .eternity-button:hover {
@@ -93,11 +90,6 @@ footer button a {
 
 footer {
     background-color: black;
-}
-
-.eternity-text {
-    font-family: 'Montserrat', sans-serif;
-    letter-spacing: 2px;
 }
 
 
@@ -133,9 +125,10 @@ h1 {
     margin-top: -100px;*/
 }
 
-.hero-overlay .eternity-button {
-    width: 235px;
-}
+/*.hero-overlay .btn {
+    position: relative;
+    top: 75px;
+}*/
 
 .hero-overlay .btn i {
     line-height: 1em;
@@ -226,9 +219,8 @@ h1 {
     background-color: black;
 }
 
-.invest-sell-container button a {
+.invest-sell-container a {
     text-decoration: none;
-    color: white;
 }
 
 
@@ -236,9 +228,9 @@ h1 {
     color: black;
     background-image: url("../images/watermark-logo-only.png");
     background-repeat: no-repeat;
-    background-size: 20%;
+    background-size: 50%;
     background-position-x: center;
-    background-position-y: 7%;
+    background-position-y: center;
     width: 100%;
     height: 550px;
     position: relative;
@@ -425,9 +417,9 @@ h1 {
         font-size: 26px;
     }
 
-    /*.hero-overlay .eternity-button {
+    .hero-overlay .eternity-button {
         width: 170px;
-    }*/
+    }
 
     .hero-overlay .eternity-button i {
         display: block;

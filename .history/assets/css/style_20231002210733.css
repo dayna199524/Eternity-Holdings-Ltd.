@@ -95,11 +95,6 @@ footer {
     background-color: black;
 }
 
-.eternity-text {
-    font-family: 'Montserrat', sans-serif;
-    letter-spacing: 2px;
-}
-
 
 /* HERO IMAGE */
 
@@ -134,7 +129,7 @@ h1 {
 }
 
 .hero-overlay .eternity-button {
-    width: 235px;
+    width: 250px;
 }
 
 .hero-overlay .btn i {
