@@ -315,35 +315,16 @@ h1 {
     .navbar-brand .icon-logo {
         display: none;
     }
-
-    .navbar-dark .navbar-brand {
-        margin: 0;
-    }
     
     .navbar-brand .title-logo {
         width: 233px;
         height: 30px;
-        margin-left: 5px;
-        display: inline;
+        margin: 0;
     }
 
-    .navbar-dark .navbar-toggler {
-        display: inline;
-        width: 35px;
-        padding-left: 6.5px;
-        padding-bottom: 7px;
-        margin-right: 5px;
-    }
-
-    .navbar-toggler-icon {
-        display: inline-block;
-        width: 20px;
-        height: 20px;
-        vertical-align: middle;
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover;
-    }
+        .navbar-dark .navbar-toggler {
+            
+        }
 
     .hero-overlay .button-container {
         width: 90%;
@@ -356,6 +337,16 @@ h1 {
     .hero-overlay h1 {
         font-size: 30px;
     }
+
+    
+
+    /* not working!!!!
+    
+    #hero-image button a i {
+        display: none!important;
+    }
+   */
+
    
 }
 

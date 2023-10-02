@@ -356,6 +356,16 @@ h1 {
     .hero-overlay h1 {
         font-size: 30px;
     }
+
+    
+
+    /* not working!!!!
+    
+    #hero-image button a i {
+        display: none!important;
+    }
+   */
+
    
 }
 
