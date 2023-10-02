@@ -263,7 +263,7 @@ h1 {
 .example-deals-container table {
     border: 2px solid #00418d;
     background-color: white;
-    color:#00418d;
+    color:#0474c4;
 }
 
 .example-deals-container table th {
@@ -277,7 +277,7 @@ h1 {
 }
 
 .example-deals-container table .table-row-alt-color {
-    background-color: rgba(4, 116, 196, 0.3);
+    color: rgba (4, 116, 196, 0.5);
 }
 
 
