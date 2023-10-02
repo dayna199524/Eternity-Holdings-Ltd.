@@ -281,7 +281,9 @@ h1 {
     background-color: rgba(4, 116, 196, 0.3);
 }
 
-
+.examples-paragraph-container {
+    display: block;
+}
 
 
 /* MEDIA QUERIES */
