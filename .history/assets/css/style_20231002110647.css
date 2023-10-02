@@ -245,13 +245,6 @@ h1 {
     width: 175px;
 }
 
-/* INVEST/SELL BODY */
-
-.property-card {
-    width: 350px;
-    border: 3px solid #0474c4;
-}
-
 
 
 /* MEDIA QUERIES */
@@ -267,12 +260,10 @@ h1 {
         height: 30px;
     }
 
-    /* not working!!!!
-    
     #hero-image button a i {
         display: none!important;
     }
-   */
+   
 
    
 }
