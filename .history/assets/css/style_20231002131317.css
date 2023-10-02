@@ -247,6 +247,11 @@ h1 {
 
 /* INVEST/SELL BODY */
 
+.property-cards-container {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
 .property-card {
     width: 350px;
     border: 3px solid #0474c4;
