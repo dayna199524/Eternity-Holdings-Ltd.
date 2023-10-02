@@ -88,9 +88,7 @@ footer button a {
     text-decoration: none;
 }
 
-footer {
-    background-color: black;
-}
+
 
 
 /* HERO IMAGE */
@@ -216,7 +214,7 @@ h1 {
 /* INVEST/SELL HEADING SECTION */
 
 .invest-sell-container {
-    background-color: black;
+    background-color: #212529;
 }
 
 .invest-sell-container a {
