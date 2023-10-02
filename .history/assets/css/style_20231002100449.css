@@ -82,6 +82,7 @@ footer .eternity-button i {
 
 footer button a {
     text-decoration: none;
+    text-decoration-color: white;
 }
 
 
@@ -250,7 +251,10 @@ h1 {
 /* MEDIA QUERIES */
 
 @media (min-width: 300px) and (max-width: 359px) {
-    
+    /*.hero-overlay .eternity-button {
+        margin: 5px!important;
+        width: 130px;
+    }*/
     .navbar-brand .icon-logo {
         display: none;
     }
@@ -258,10 +262,6 @@ h1 {
     .navbar-brand .title-logo {
         width: 233px;
         height: 30px;
-    }
-
-    .eternity-button {
-        width: 50px!important;
     }
 }
 

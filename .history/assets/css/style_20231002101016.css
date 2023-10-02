@@ -260,7 +260,7 @@ h1 {
         height: 30px;
     }
 
-    .eternity-button {
+    #hero-image .hero-overlay button .eternity-button {
         width: 50px!important;
     }
 }
