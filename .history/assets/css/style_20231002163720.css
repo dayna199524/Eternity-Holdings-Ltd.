@@ -132,9 +132,8 @@ h1 {
     text-decoration: none;
 }
 
-.button-container {
-    width: 700px;
-    text-align: center;
+.row .button-container {
+    display: inline-block;
 }
 
 /* WHY CHOOSE US */

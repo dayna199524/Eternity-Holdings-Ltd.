@@ -133,8 +133,7 @@ h1 {
 }
 
 .button-container {
-    width: 700px;
-    text-align: center;
+    display: inline-block;
 }
 
 /* WHY CHOOSE US */

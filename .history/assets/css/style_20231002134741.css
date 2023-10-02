@@ -132,11 +132,6 @@ h1 {
     text-decoration: none;
 }
 
-.button-container {
-    width: 700px;
-    text-align: center;
-}
-
 /* WHY CHOOSE US */
 
 .eternity-header, .section-header {
@@ -265,7 +260,7 @@ h1 {
     font-size: 27px;
 }
 
-.property-card p, .property-card ul li {
+.property card p, property card ul li {
     text-align: justify;
 }
 
