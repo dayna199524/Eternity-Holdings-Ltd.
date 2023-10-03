@@ -430,14 +430,6 @@ h1 {
         background-size: 10em;
     }
 
-        .property-card {
-            width: 90%;
-        }
-    
-        .property-card .eternity-paragraph {
-            text-align: left;
-        }
-
 }
 
 @media screen and (min-width: 360px) and (max-width: 480px) {
@@ -464,11 +456,8 @@ h1 {
     }
 
     .property-card {
-        width: 90%;
-    }
-
-    .property-card .eternity-paragraph {
-        text-align: left;
+        width: 100%;
+        border
     }
 }
 
