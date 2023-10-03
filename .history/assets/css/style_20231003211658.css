@@ -389,6 +389,14 @@ h1 {
     color: white;
 }
 
+.form-input {
+    float: right;
+}
+
+.eternity-form label {
+    float: left;
+}
+
 #clear-button {
     background-color: #cccccc;
     border-color: #cccccc;

@@ -381,24 +381,17 @@ h1 {
     font-size: 14px;
 }
 
-#form-logo, .eternity-form {
+#form-logo {
     background-color: black;
-}
-
-.eternity-form label, .eternity-form p {
-    color: white;
 }
 
 #clear-button {
     background-color: #cccccc;
     border-color: #cccccc;
-    color: rgb(79, 78, 78);
+    color: black;
     font-weight: 500;
 }
 
-#clear-button:hover {
-    background-color: #a6a4a4;
-}
 
 
 /* MEDIA QUERIES */

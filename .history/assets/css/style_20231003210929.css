@@ -375,19 +375,17 @@ h1 {
     font-weight: 400;
 }
 
-.eternity-form input::placeholder, .eternity-form textarea::placeholder {
+#eternity-form input::placeholder, .eternity-form textarea::placeholder {
     font-weight: 400;
     color:#9f9999;
     font-size: 14px;
 }
 
-#form-logo, .eternity-form {
+#form-logo {
     background-color: black;
 }
 
-.eternity-form label, .eternity-form p {
-    color: white;
-}
+.eternity-form
 
 #clear-button {
     background-color: #cccccc;

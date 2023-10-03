@@ -385,8 +385,8 @@ h1 {
     background-color: black;
 }
 
-.eternity-form label, .eternity-form p {
-    color: white;
+.eternity-form {
+    background-color: black;
 }
 
 #clear-button {

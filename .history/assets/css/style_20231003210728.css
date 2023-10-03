@@ -381,12 +381,8 @@ h1 {
     font-size: 14px;
 }
 
-#form-logo, .eternity-form {
+#form-logo {
     background-color: black;
-}
-
-.eternity-form label, .eternity-form p {
-    color: white;
 }
 
 #clear-button {
@@ -397,7 +393,7 @@ h1 {
 }
 
 #clear-button:hover {
-    background-color: #a6a4a4;
+    
 }
 
 

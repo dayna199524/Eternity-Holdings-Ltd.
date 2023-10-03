@@ -381,12 +381,12 @@ h1 {
     font-size: 14px;
 }
 
-#form-logo, .eternity-form {
+#form-logo {
     background-color: black;
 }
 
-.eternity-form label, .eternity-form p {
-    color: white;
+.eternity-form {
+    background-color: black;
 }
 
 #clear-button {
