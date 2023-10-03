@@ -277,8 +277,12 @@ h1 {
     border: 3px solid #0474c4;
 }
 
-.property-card p, .property-card li {
+.property-card h3, .property-card p, .property-card li {
     font-family: 'Montserrat', sans-serif;
+}
+
+.property-card h3 {
+    font-size: 27px;
 }
 
 .property-card p, .property-card ul li {
@@ -324,41 +328,13 @@ h1 {
 
 .eternity-paragraph {
     font-weight: 500;
-    font-size: 16px;
-    letter-spacing: 1px;
 }
 
 .eternity-subheading {
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 2px;
-    font-size: 27px;
 }
 
-#example-deal-one, #example-deal-two, #example-deal-three {
-    background-color: rgba(255,255,255,0.8);
-    border-radius: 3%;
-}
-
-#example-deal-one, #example-deal-three {
-    border: 5px solid #00418d;
-}
-
-#example-deal-two {
-    border: 5px solid black;
-    background-color:rgba(0, 0, 0, 0.5);
-    color: white;
-}
-
-.text-underline {
-    text-decoration: underline;
-    text-underline-offset: 10px;
-    text-decoration-thickness: 2px;
-    text-decoration-color: #00418d;
-}
-
-#example-deal-two .text-underline {
-    text-decoration-color: #cccccc;
-}
 /* CONTACT FORM */
 
 .contact-textarea {
