@@ -452,8 +452,8 @@ h1 {
             background-size: 11em;
         }
 
-        #invest-sell-paragraph {
-        font-size: 14px;
+                #invest-sell-paragraph {
+                    font-size: 14px;
   
 }
 
@@ -468,6 +468,11 @@ h1 {
         width: 280px;
         height: 36px;
     }
+    
+    #invest-sell-heading {
+        font-size: 34px;
+        line-height: 56px;
+    }
 
     /*.hero-overlay .eternity-button {
         width: 170px;
@@ -478,14 +483,9 @@ h1 {
         padding-bottom: 5px;
     }
     
-    #invest-sell-heading-background {
-        background-size: 12em;
-    }
-
-    #invest-sell-heading {
-        font-size: 30px;
-        line-height: 56px;
-    }
+        #invest-sell-heading-background {
+            background-size: 12em;
+        }
 
 }
 

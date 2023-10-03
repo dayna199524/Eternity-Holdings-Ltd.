@@ -478,12 +478,12 @@ h1 {
         padding-bottom: 5px;
     }
     
-    #invest-sell-heading-background {
-        background-size: 12em;
-    }
+        #invest-sell-heading-background {
+            background-size: 12em;
+        }
 
     #invest-sell-heading {
-        font-size: 30px;
+        font-size: 34px;
         line-height: 56px;
     }
 
