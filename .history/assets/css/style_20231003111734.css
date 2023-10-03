@@ -416,19 +416,20 @@ h1 {
         font-size: 30px;
     }
    
-    #invest-sell-heading {
-        font-size: 24px;
-        line-height: 40px;
-    }
+        #invest-sell-heading {
+            font-size: 24px;
+            line-height: 40px;
+        }
 
-    #invest-sell-paragraph {
-        font-size: 14px;
-        text-align: center;            
-    }
+        #invest-sell-paragraph {
+            font-size: 14px;
+            text-align: center;
+            
+        }
 
-    #invest-sell-heading-background {
-        background-size: 10em;
-    }
+        #invest-sell-heading-background {
+            background-size: 10em;
+        }
 
 }
 
@@ -451,13 +452,13 @@ h1 {
         background-size: 11em;
     }
 
-    #invest-sell-paragraph {
-    font-size: 14px;
-    }
+        #invest-sell-paragraph {
+        font-size: 14px;
+  
 }
 
-@media screen and (min-width: 481px) and (max-width: 768px) 
-{
+@media screen and (min-width: 481px) and (max-width: 768px) {
+
     .navbar-brand .icon-logo {
         width: 55px;
         height: 55px;
@@ -483,6 +484,7 @@ h1 {
 
     #invest-sell-heading {
         font-size: 30px;
-        line-height: 50px;
+        line-height: 56px;
     }
+
 }

@@ -453,11 +453,11 @@ h1 {
 
     #invest-sell-paragraph {
     font-size: 14px;
-    }
+  
 }
 
-@media screen and (min-width: 481px) and (max-width: 768px) 
-{
+@media screen and (min-width: 481px) and (max-width: 768px) {
+
     .navbar-brand .icon-logo {
         width: 55px;
         height: 55px;
@@ -483,6 +483,7 @@ h1 {
 
     #invest-sell-heading {
         font-size: 30px;
-        line-height: 50px;
+        line-height: 56px;
     }
+
 }
