@@ -454,7 +454,7 @@ h1 {
             line-height: 40px;
          }
     .eternity-header {
-        line-height: 60px;
+        line-height: 50px;
     }
 }
 
@@ -544,10 +544,4 @@ h1 {
     .example-deals-container table .eternity-paragraph {
         text-align: left;
     }
-
-         #example-deal-one,
-         #example-deal-two,
-         #example-deal-three {
-             border-radius: 0;
-         }
 }

@@ -544,10 +544,4 @@ h1 {
     .example-deals-container table .eternity-paragraph {
         text-align: left;
     }
-
-         #example-deal-one,
-         #example-deal-two,
-         #example-deal-three {
-             border-radius: 0;
-         }
 }

@@ -448,14 +448,10 @@ h1 {
         text-align: left;
         font-size: 14px;
         }
-    #example-deal-one .eternity-subheading,
-    #example-deal-two .eternity-subheading,
-    #example-deal-three .eternity-subheading {
-            line-height: 40px;
-         }
-    .eternity-header {
-        line-height: 60px;
-    }
+         #example-deal-one .eternity-subheading,
+         #example-deal-two .eternity-subheading,
+         #example-deal-three
+
 }
 
 @media screen and (min-width: 360px) and (max-width: 480px) {
@@ -544,10 +540,4 @@ h1 {
     .example-deals-container table .eternity-paragraph {
         text-align: left;
     }
-
-         #example-deal-one,
-         #example-deal-two,
-         #example-deal-three {
-             border-radius: 0;
-         }
 }

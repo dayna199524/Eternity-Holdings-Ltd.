@@ -443,19 +443,9 @@ h1 {
         border-radius: 0;
     }
 
-
-    .example-deals-container table .eternity-paragraph {
-        text-align: left;
-        font-size: 14px;
+        .example-deals-container table, .example-deals-container table th, .example-deals-container table td {
+            width: inherit;
         }
-    #example-deal-one .eternity-subheading,
-    #example-deal-two .eternity-subheading,
-    #example-deal-three .eternity-subheading {
-            line-height: 40px;
-         }
-    .eternity-header {
-        line-height: 60px;
-    }
 }
 
 @media screen and (min-width: 360px) and (max-width: 480px) {
@@ -487,11 +477,6 @@ h1 {
 
     .property-card .eternity-paragraph {
         text-align: left;
-    }
-
-        .example-deals-container .cash-flow-table {
-        border-right: none;
-        border-left: none;
     }
 }
 
@@ -537,17 +522,8 @@ h1 {
     
 
     .example-deals-container table {
+        text-align: left;
         width: auto;
         height: auto;
     }
-
-    .example-deals-container table .eternity-paragraph {
-        text-align: left;
-    }
-
-         #example-deal-one,
-         #example-deal-two,
-         #example-deal-three {
-             border-radius: 0;
-         }
 }

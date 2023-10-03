@@ -548,6 +548,6 @@ h1 {
          #example-deal-one,
          #example-deal-two,
          #example-deal-three {
-             border-radius: 0;
+             border-radius: 2%;
          }
 }
