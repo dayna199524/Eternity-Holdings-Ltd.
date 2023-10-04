@@ -6,7 +6,7 @@
 
 [Access the live site here.](https://dayna199524.github.io/Eternity-Holdings-Ltd./)
 
-This is the documentation for the website for Eternity Holdings Limited. The site has been built using HTML5, CSS3 and Bootstrap 5 for the Milestone 1 project for Code Institute's Web Development Diploma. This website was created for a real client.
+This is the documentation for the website for Eternity Holdings Limited. The site has been built using HTML5, CSS3 and Bootstrap 5 for Milestone Project 1 for Code Institute's Web Development Diploma. This website was created for a real client, the implications of which are discussed later in the documentation.
 
 ***
 
