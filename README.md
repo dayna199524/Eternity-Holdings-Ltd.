@@ -358,11 +358,12 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
-- The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
+- I based the layout of the hero overlay on the code found on [this page](https://mdbootstrap.com/docs/standard/extended/hero/).
+- The basic sign-up form code was based upon the [Love Running Sign-Up Challenge](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/d533998456514d97a88ce691537e00a6/).
 
-- [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+- [Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap Library used throughout the project for styling classes and responsiveness using the Bootstrap Grid System.
 
-- [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+- In order to create the drop down menus in the Features section of this ReadME I found the code [here](https://developer.mozilla.org/).
 
 ### Content
 
