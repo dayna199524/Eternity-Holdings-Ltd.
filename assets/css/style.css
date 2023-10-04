@@ -337,7 +337,6 @@ h1 {
 
 #example-deal-one, #example-deal-two, #example-deal-three {
     background-color: rgba(255,255,255,0.8);
-    border-radius: 3%;
 }
 
 #example-deal-one, #example-deal-three {
@@ -497,11 +496,6 @@ h1 {
         .property-card .eternity-paragraph {
             text-align: left;
         }
-    #example-deal-one,
-    #example-deal-two,
-    #example-deal-three {
-        border-radius: 0;
-    }
 
 
     .example-deals-container table .eternity-paragraph {
@@ -626,12 +620,6 @@ h1 {
     .example-deals-container table .eternity-paragraph {
         text-align: left;
     }
-
-         #example-deal-one,
-         #example-deal-two,
-         #example-deal-three {
-             border-radius: 0;
-         }
     
     #heading-example-deal-three, #heading-example-deal-two, #heading-example-deal-one {
         text-align: center;
@@ -642,4 +630,8 @@ h1 {
     }
 
     
+}
+
+.row {
+    --bs-gutter-x: 0;
 }
