@@ -203,21 +203,21 @@ These wireframes represent the initial design ideas for the webpage.
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap v5.0:](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+1. [Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/):
     - Bootstrap was used to assist with the responsiveness and styling of the website.
-2. [Google Fonts:](https://fonts.google.com/)
+2. [Google Fonts](https://fonts.google.com/):
     - Google fonts was used to import the 'Montserraf' and 'DM Sans' fonts in varying weights into the style.css file which are used on all pages throughout the project.
-3. [Font Awesome:](https://fontawesome.com/)
+3. [Font Awesome](https://fontawesome.com/):
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-5. [jQuery:](https://jquery.com/)
+5. [jQuery](https://jquery.com/):
     - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-6. [Git](https://git-scm.com/)
+6. [Git](https://git-scm.com/):
     - Git was used for version control by utilizing the Codeanywhere terminal to commit to Git and Push to GitHub.
-7. [GitHub:](https://github.com/)
+7. [GitHub](https://github.com/):
     - GitHub is used to store the projects code after being pushed from Git.
 8. [Microsoft Word](https://microsoft.com/en-gb/microsoft-365)
     - Microsoft Word was used to resize images and create the watermark logo used on the Invest/Sell page.
-9. [Balsamiq:](https://balsamiq.com/)
+9. [Balsamiq](https://balsamiq.com/):
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 10. Google DevTools:
     - Google DevTools was used to test responsiveness and to see live changes I made to both the HTML and CSS code. It also helped me with debugging/fixing any issues that occured. Accessed by right clicking on any element and selecting inspect.
