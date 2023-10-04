@@ -10,7 +10,7 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
 
 ***
 
-## User Experience - UX
+## User Experience \(UX)
 
 ### Strategy
 
@@ -46,7 +46,7 @@ This project website was created for a real client who wanted a website created 
 
 ### Scope
 
-After assessing the needs of both new, returning and frequent users myself and the client decided upon the following features to be included across the website:
+After assessing the needs of both new, returning and frequent users myself and the client decided upon the following 'must have' features to be included across the website:
 
 - An easy pathway to the contact page with further button links to the page strategically placed around the site, such as in the hero image and footer, to encourage the user to get in touch.
 - Relevant external links in the footer to social media pages and unions/organisations associated with the business.
@@ -83,7 +83,7 @@ All wireframes can be found in a combined document located [here.](assets/Wirefr
 
 These wireframes represent the initial design ideas for the webpage.
 
-### Design
+### Surface \(Design)
 
 #### Colour Scheme
 
@@ -107,6 +107,90 @@ These wireframes represent the initial design ideas for the webpage.
 - As the company is just starting out, I have currently used placeholder images for both the testimonial portraits and the property type cards on the Invest/Sell page. All images are free to use but the credits have still been included at the bottom of this documentation.
 
 - I felt it important to use imagery of the company throughout the site and I have done this by adding a watermark of the logo behind the heading section of the Invest/Sell page and including the logo as an icon at the top of the contact form.
+
+***
+
+## Features
+
+### Sitewide
+
+<details>
+    <summary>Desktop Navbar</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
+
+<details>
+    <summary>Mobile/Small Screen Size Navbar</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
+
+<details>
+    <summary>Footer</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
+
+<details>
+    <summary>Mobile/Small Screen Size Footer</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
+
+### Homepage
+
+<details>
+    <summary>Hero Image</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
+
+<details>
+    <summary>Three Reasons Why</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
+
+<details>
+    <summary>Testimonials</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
+
+### Invest/Sell Page
+
+<details>
+    <summary>Overview Heading Section</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
+
+<details>
+    <summary>Types of Accommodation</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
+
+<details>
+    <summary>Example Deals</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
+
+### Contact Page
+
+<details>
+    <summary>Contact Form</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
+
+<details>
+    <summary>Contact Details/Working Hours</summary>
+    <br>
+    <img src="#" alt="#">
+</details>
 
 ***
 
@@ -135,6 +219,8 @@ These wireframes represent the initial design ideas for the webpage.
     - Microsoft Word was used to resize images and create the watermark logo used on the Invest/Sell page.
 9. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+10. [Google DevTools]
+    - Google DevTools was used to test responsiveness and to see live changes I made to both the HTML and CSS code. It also helped me with debugging/fixing any issues that occured.
 
 ## Testing
 
