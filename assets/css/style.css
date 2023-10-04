@@ -183,6 +183,7 @@ h1 {
     border-radius: 20px;
     color: white;
     font-family: 'Montserrat', sans-serif;
+    height: 50%;
 }
 
 .review-image {
@@ -523,6 +524,10 @@ h1 {
         #heading-example-deal-one {
             text-align: center;
         }
+
+    .review-container {
+        height: 43%;
+    }
 }
 
 @media screen and (min-width: 360px) and (max-width: 480px) {
@@ -566,6 +571,10 @@ h1 {
         #heading-example-deal-one {
             text-align: center;
         }
+
+    .review-container {
+        height: 40%;
+    }
 }
 
 @media screen and (min-width: 481px) and (max-width: 768px) 
@@ -627,4 +636,10 @@ h1 {
     #heading-example-deal-three, #heading-example-deal-two, #heading-example-deal-one {
         text-align: center;
     }
+
+    .review-container {
+        height: 30%;
+    }
+
+    
 }
