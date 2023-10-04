@@ -228,8 +228,11 @@ These wireframes represent the initial design ideas for the webpage.
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+- [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
+    - Homepage - the validator did not like button element being a descendant of an anchor tag or vice versa. However, the buttons are functioning as required and I am currently unable to recode them another way. This would be something to correct in the future though.
+    - Invest/Sell page - 
+    - Contact page - 
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - no errors found.
 
 ### Testing User Stories from User Experience (UX) Section
 
