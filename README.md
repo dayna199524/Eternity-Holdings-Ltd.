@@ -32,7 +32,7 @@ This project website was created for a real client who wanted a website created 
 
 >1. As a Returning Visitor, I want to quickly get in touch with someone about investing/selling/obtaining more information.
 >2. As a Returning Visitor, I want to understand what a HMO or Serviced Accommodation Property is.
->3. As a Returning Visitor, I want to see investment models/completed investment outcomes to see what sort of profit I can make from my investment with Eternity Holdings Ltd.
+>3. As a Returning Visitor, I want to see updated investment outcomes to see if the returns on investments have improved or diminished.
 >4. As a Returning Visitor, I want to find social media links to see what the company is currently working on.
 >5. As a Returning Visitor, I want to see what current investment opportunities are available.
 
@@ -233,7 +233,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Testing User Stories from User Experience (UX) Section
 
-- #### First Time Visitor Goals
+#### First Time Visitor Goals
 
 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the company.
    - The user is greeted with the hero image which expresses the main goals of the company - that if the user wishes to "invest smart" and "invest securely" they should "invest with us", that is Eternity Holdings Ltd.
@@ -261,53 +261,50 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 7. As a First Time Visitor and investor, I want to know what profit I can make back from my investment.
     - The Invest/Sell page contains example deals at the bottom of the page. However, this could be better explained by adding to the overview paragraph at the top of the page to indicate its existance or by placing into a separate sub-page in the future.
 
-- #### Returning Visitor Goals
+#### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
+1. As a Returning Visitor, I want to quickly get in touch with someone about investing/selling/obtaining more information.
+    - The navbar contains a clear link that will take you straight to the contact page. Whilst not seen on smaller screen sizes immediately, there are call to action contact buttons both in the hero image on the homepage and on the Invest/Sell overview header section that will take you to the contact page.
 
-        1. These are clearly shown in the banner message.
-        2. They will be directed to a page with another hero image and call to action.
+2. As a Returning Visitor, I want to understand what a HMO or Serviced Accommodation Property is.
+    - There is clearly denoted section explaining these two types of properties on the Invest/Sell page
 
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+3. As a Returning Visitor, I want to see updated investment outcomes to see if the returns on investments have improved or diminished.
+    - As the business is still new/in the early conception stages, this currently isn't possible and only example deals are displayed. This is an area that could be expanded upon in the future.
+    - There are links to the company's social media pages in the footer with clear, familiar icons. However, as the business is still in its early days, they do not yet have much of a social media presence (and the youtube icon does not yet link to a specific account) and so this goal cannot be met through this method.
 
-        1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+4. As a Returning Visitor, I want to find social media links to see what the company is currently working on.
+    - Social media links that will take you straight to the business' social media pages are shown clearly in the footer as clickable links. However, as stated above, the business does not yet have much of a social media presence and so whilst the links are easy to find, the user will not obtain the information they want.
 
-    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
+5. As a Returning Visitor, I want to see what current investment opportunities are available.
+    - Whilst the website advertises that they are interested in investors getting in touch, there isn't yet an area where specific projects requiring investors can be listed. This is an area to add in the future.
 
-- #### Frequent User Goals
+#### Frequent User Goals:
 
-    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+1. As a Frequent User, I want to check to see if there are any newly added investment opportunities.
+    - As above, whilst the website advertises that they are interested in investors getting in touch, there isn't yet an area where specific projects requiring investors can be listed and is an area to be added in the future.
 
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
+2. As a Frequent User, I want to check to see if there are any more examples of completed investments.
+    - Likewise with above, the business is just starting out and does not yet have any investments it can present on the webpage or social media which is why only example deals are included on the website. As the business doesn't yet have much of a social media presence, it also doesn't yet make sense to try and lead the user to the social media links for this information if it doesn't yet exist. However, these is are definitely things that can be added in the future.
 
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
+3. As a Frequent User, I want to see if there are any new reviews to check the continued trustworthiness of the company.
+    - Goal not yet met. However, as the business expands, the review section can be turned into a carousel with additional reviews added. This would also lend itself to the responsiveness of the page as it will reduce user scrolling on smaller screens.
 
-        1. The user would already be comfortable with the website layout and can easily click the blog link
-
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+5. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
+    - This isn't yet possible for me as a student developer as I have not yet learned the relevant material for providing a sign up link where updates can be automatically sent out to users who have signed up by the client.
 
 ### Further Testing
 
 - The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
-- A large amount of testing was done to ensure that all pages were linking correctly.
+- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 13 and iPhone.
+- Testing was carried out to ensure that all pages were linking correctly.
 - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
-- On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-  - A white gap can be seen to the right of the footer and navigation bar as a result.
-- On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+- When landscape on iPhone 13 there is white space either side of the page to prevent the webpage from going underneath the camera area where the screen wraps around it. This will be a formatting that will need to be coded for in the future. However, the formatting, despite this white space still looks good overall and there isn't any side scrolling needed.
+- After replacing lorem text in the review containers in the Testimonials section of the homepage, despite there being a gx-0 class in all the rows on the homepage, a gutter still began appearing on the right-hand-side of the page. DevTools presented it as struck out and overwritten with the gx-0 class but the gutter still wouldn't disappear without writing a new css rule at the bottom of the style sheet of .row {--bs-gutter-x: 0;}. Whilst this fixed the problem, I am still unsure as to what caused it in the first place.
+
 
 ## Deployment
 
