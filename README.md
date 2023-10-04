@@ -387,6 +387,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
 
-- My Mentor for continuous helpful feedback.
+- My Mentor for their helpful feedback and information provision.
 
-- Tutor support at Code Institute for their support.
+- Iris Smok, our Cohort Facilitator for providing such informative stand-ups and helpful resources.
