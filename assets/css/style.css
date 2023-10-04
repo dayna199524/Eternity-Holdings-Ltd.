@@ -288,6 +288,11 @@ h1 {
     text-align: justify;
 }
 
+.property-card-image {
+    width: 100%;
+    height: auto;
+}
+
 .example-deals-container {
     background-color: #cccccc;
 }
@@ -532,6 +537,11 @@ h1 {
     .review-container {
         height: 43%;
     }
+
+    .property-card-image {
+        width: 100%;
+        height: auto;
+    }
 }
 
 @media screen and (min-width: 360px) and (max-width: 480px) {
@@ -578,6 +588,11 @@ h1 {
 
     .review-container {
         height: 40%;
+    }
+
+    .property-card-image {
+        width: 100%;
+        height: auto;
     }
 }
 
