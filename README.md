@@ -46,13 +46,7 @@ This project website was created for a real client who wanted a website created 
 ***
 ### Scope
 
-After assessing the needs of both new, returning and frequent users myself and the client decided upon the following three pages:
-
-- Homepage
-- Invest/Sell page
-- Contact Page
-
-Features that we felt were important to include in these pages were:
+After assessing the needs of both new, returning and frequent users myself and the client decided upon the following features to be included across the website:
 
 - An easy pathway to the contact page with further button links to the page strategically placed around the site, such as in the hero image and footer, to encourage the user to get in touch.
 - Relevant external links in the footer to social media pages and unions/organisations associated with the business.
@@ -60,17 +54,36 @@ Features that we felt were important to include in these pages were:
 - Definitions for the two types of business models - HMO's and Serviced Accommodation - that the business specialises in.
 - A review section
 - Example investment outcomes
-- A section at the top of the Invest/Sell page that explains that the business not only is looking for investors but is also interested in buying suitable properties.
+- A section that explains that the business not only is looking for investors but is also interested in buying suitable properties.
 - A contact form
 - Business operating hours
 - Contact details
+
+***
+
+### Structure
+
+After taking the scope into account and discussing with the client we decided upon the following three pages:
+
+- Homepage
+- Invest/Sell page
+- Contact Page
+
+Whilst the Homepage and Contact Page were easy choices for two of the three pages, we struggled to find the most appropriate name for the middle page.
+
+The client wished to have an area where example deals and past projects/a portfolio could be displayed. I also felt it would be important due to the user stories to make sure it was obvious that the business also buys properties and isn't only looking for investors but the client wanted the hero slogan to be about investment. The user stories also suggested that there should be an explanation somewhere on the site as to what the two business models - HMO's and Serviced Accommodation - were to ensure that only appropriate inquiries in relation to the two desired business models were received. The difficulty that therefore arose was as to what title for this page would encompass all of these sections into one. 
+
+Original name suggestions, including 'Example Deals', 'Portfolio' and 'Investments'. Eventually we decided on the simple "Invest/Sell" as the user can immediately see in the navbar that the company also wishes to buy propeties and that this page will contain information about both investing and selling.
+
+Unfortunately, there is still an issue once smaller screen sizes come into play as the collapsed navbar prevent the user from immediately seeing there is an option to 'sell' and this is something to be discussed further with the client in the future to ensure all the needs of the business strategy are met.
 
 ### Design
 
 >Colour Scheme
 
 - The colour scheme was decided by taking colours from the Eternity Holdings Logo shown below.   
-<img src="assets/images/logo-9-only.png" alt="eternity holdings logo icon" width="100px" height="100px">
+  
+>><img src="assets/images/logo-9-only.png" alt="eternity holdings logo icon" width="100px" height="100px">
 
 - The client expressed interest in keeping the site really clean and sophisticated and so the colour scheme was kept simple and based on a monochromatic feel with blue touches from the logo. Please see below for the colour palette.
 ![Eternity Holdings website colour palette](assets/images/Eternity-Holdings-Ltd-Colour-Scheme.png)
