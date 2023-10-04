@@ -215,7 +215,7 @@ These wireframes represent the initial design ideas for the webpage.
     - Git was used for version control by utilizing the Codeanywhere terminal to commit to Git and Push to GitHub.
 7. [GitHub](https://github.com/):
     - GitHub is used to store the projects code after being pushed from Git.
-8. [Microsoft Word](https://microsoft.com/en-gb/microsoft-365)
+8. [Microsoft Word](https://microsoft.com/en-gb/microsoft-365):
     - Microsoft Word was used to resize images and create the watermark logo used on the Invest/Sell page.
 9. [Balsamiq](https://balsamiq.com/):
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
@@ -367,13 +367,23 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
-- All content was written by the developer.
-
-- Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+- All code content, except that which has already been mentioned above was written by the developer. 
+- The client provided the website body content for the hero image slogan, Homepage: three reasons why section and the example deals section's tables data.
+- Information about HMO's and Serviced Accomodation in the Types of Accomodation section of the Invest/Sell page were based on information found in the following three pages:
+    - [Furniture Pack Solutions](https://www.furniturepack.co.uk/blog/why-hmos-are-a-great-investment/)
+    - [Property Investments UK](https://www.propertyinvestmentsuk.co.uk/serviced-accommodation/)
+    - [GOV.UK: Private Renting](https://www.gov.uk/private-renting/houses-in-multiple-occupation)
 
 ### Media
 
-- All Images were created by the developer.
+- Eternity Holdings logos, including the logo text and icon were provided by the client.
+- Testimonials section images were sourced from [Pixabay](https://pixabay.com/).
+- Types of Accommodation section images were sourced from [Unsplash](https://unsplash.com/).
+
+### Further Credits
+
+- Colour palette for website shown above in the Surface section was created using [coolors](https://coolors.co/).
+- I used [IMAGECOLORPICKER.COM](https://imagecolorpicker.com/en#google_vignette) to find the hex codes for the blues in the the company's logo I wanted to use in the colour palette.
 
 ### Acknowledgements
 
