@@ -43,7 +43,7 @@ This project website was created for a real client who wanted a website created 
 >3. As a Frequent User, I want to see if there are any new reviews to check the continued trustworthiness of the company.
 >4. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
 
-***
+
 ### Scope
 
 After assessing the needs of both new, returning and frequent users myself and the client decided upon the following features to be included across the website:
@@ -58,8 +58,6 @@ After assessing the needs of both new, returning and frequent users myself and t
 - A contact form
 - Business operating hours
 - Contact details
-
-***
 
 ### Structure
 
@@ -77,9 +75,17 @@ Original name suggestions, including 'Example Deals', 'Portfolio' and 'Investmen
 
 Unfortunately, there is still an issue once smaller screen sizes come into play as the collapsed navbar prevent the user from immediately seeing there is an option to 'sell' and this is something to be discussed further with the client in the future to ensure all the needs of the business strategy are met.
 
+### Skeleton
+
+#### Wireframes
+
+All wireframes can be found in a combined document located [here.](assets/Wireframes/All-Wireframes-2.0.pdf)
+
+These wireframes represent the initial design ideas for the webpage.
+
 ### Design
 
->Colour Scheme
+#### Colour Scheme
 
 - The colour scheme was decided by taking colours from the Eternity Holdings Logo shown below.   
   
@@ -88,13 +94,13 @@ Unfortunately, there is still an issue once smaller screen sizes come into play 
 - The client expressed interest in keeping the site really clean and sophisticated and so the colour scheme was kept simple and based on a monochromatic feel with blue touches from the logo. Please see below for the colour palette.
 ![Eternity Holdings website colour palette](assets/images/Eternity-Holdings-Ltd-Colour-Scheme.png)
 
->Typography
+#### Typography
 
 - The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in the event the main font cannot be loaded into the site. It produces a clean, sophisticated and professional look, especially when combined with increased letter spacing as I have done throughout the website. 
 
 - DM Sans, with Sans Serif is additionally used for the hero image's slogan to created more impact for the user when landing on the homepage.
 
->Imagery
+#### Imagery
   
 - The hero image is a shot of one of the client's HMO properties which immediately displays the standard of work an investor can expect from the company.
 
@@ -102,16 +108,7 @@ Unfortunately, there is still an issue once smaller screen sizes come into play 
 
 - I felt it important to use imagery of the company throughout the site and I have done this by adding a watermark of the logo behind the heading section of the Invest/Sell page and including the logo as an icon at the top of the contact form.
 
-## Wireframes
-
-All wireframes can be found in a combined document located [here.](assets/Wireframes/All-Wireframes-2.0.pdf)
-
-
-## Features
-
-- Responsive on all device sizes
-
-- Interactive elements
+***
 
 ## Technologies Used
 
