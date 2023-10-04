@@ -1,6 +1,6 @@
 # Eternity Holdings Ltd. - ReadME
 
-![Website view on various screen sizes]()
+![Website view on various screen sizes](assets/images/Website-Responsiveness-Mock-Up.png)
 
 #### By Dayna Townsend
 
@@ -37,12 +37,30 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
     4. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
 
 ### Design
-  - #### Colour Scheme
-    - The two main colours used are Code Insititue red, and white.
-  - #### Typography
-    - The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
-  - #### Imagery
-    - Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+
+>#### Colour Scheme
+
+>The colour scheme was decided by taking colours from the Eternity Holdings Logo shown below.  
+
+><img src="assets/images/logo-9-only.png" alt="eternity holdings logo icon" width="100px" height="100px">
+
+>The client expressed interest in keeping the site really clean and sophisticated and so the colour scheme was kept simple and based on a monochromatic feel with blue touches from the logo. Please see below for the colour palette.
+
+>![Eternity Holdings website colour palette](assets/images/Eternity-Holdings-Ltd-Colour-Scheme.png)
+
+>#### Typography
+
+>The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in the event the main font cannot be loaded into the site. It produces a clean, sophisticated and professional look, especially when combined with increased letter spacing as I have done throughout the website. 
+
+>DM Sans, with Sans Serif is additionally used for the hero image's slogan to created more impact for the user when landing on the homepage.
+
+>#### Imagery
+  
+The hero image is a shot of one of the client's HMO properties which immediately displays the standard of work an investor can expect from the company.
+
+However, as the company is just starting out, I have currently used placeholder images for both the testimonial portraits and the property type cards on the Invest/Sell page. All images are free to use but the credits have still been included at the bottom of this documentation.
+
+I also felt it important to use imagery of the company throughout the site and I have done this by adding a watermark of the logo behind the heading section of the Invest/Sell page and including the logo as an icon at the top of the contact form.
 
 ### Wireframes
 
