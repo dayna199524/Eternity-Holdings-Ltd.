@@ -1,4 +1,4 @@
-# Eternity Holdings Ltd. - ReadME
+# Eternity Holdings Ltd. - README
 
 ![Website view on various screen sizes](assets/images/Website-Responsiveness-Mock-Up.png)
 
@@ -363,7 +363,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - [Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap Library used throughout the project for styling classes and responsiveness using the Bootstrap Grid System.
 
-- In order to create the drop down menus in the Features section of this ReadME I found the code [here](https://developer.mozilla.org/).
+- In order to create the drop down menus in the Features section of this README I found the code [here](https://developer.mozilla.org/).
 
 ### Content
 
