@@ -18,30 +18,30 @@ This project website was created for a real client who wanted a website created 
 
 >#### User Stories
 
->First Time Visitor Goals:
+First Time Visitor Goals:
 
->1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the company.
->2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
->3. As a First Time Visitor, I want to know how trustworthy the business is. I want to look for testimonials to understand what their previous customers thought of them and I want to see evidence of previous investments either on the site or through social media presence. I also want to see if the company is a part of any accredited unions/organisations.
->4. As a First Time Visitor and potential investor/property seller, I want to easily find the company's contact details.
->5. As a First Time Visitor and potential investor, I want to understand what type of investments Eternity Holdings Ltd. handles.
->6. As a First Time Visitor looking to sell my property, I want to know what type of properties Eternity Holdings Ltd. is interested in buying.
->7. As a First Time Visitor and investor, I want to know what profit I can make back from my investment.
+1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the company.
+2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+3. As a First Time Visitor, I want to know how trustworthy the business is. I want to look for testimonials to understand what their previous customers thought of them and I want to see evidence of previous investments either on the site or through social media presence. I also want to see if the company is a part of any accredited unions/organisations.
+4. As a First Time Visitor and potential investor/property seller, I want to easily find the company's contact details.
+5. As a First Time Visitor and potential investor, I want to understand what type of investments Eternity Holdings Ltd. handles.
+6. As a First Time Visitor looking to sell my property, I want to know what type of properties Eternity Holdings Ltd. is interested in buying.
+7. As a First Time Visitor and investor, I want to know what profit I can make back from my investment.
 
->Returning Visitor Goals:
+Returning Visitor Goals:
 
->1. As a Returning Visitor, I want to quickly get in touch with someone about investing/selling/obtaining more information.
->2. As a Returning Visitor, I want to understand what a HMO or Serviced Accommodation Property is.
->3. As a Returning Visitor, I want to see updated investment outcomes to see if the returns on investments have improved or diminished.
->4. As a Returning Visitor, I want to find social media links to see what the company is currently working on.
->5. As a Returning Visitor, I want to see what current investment opportunities are available.
+1. As a Returning Visitor, I want to quickly get in touch with someone about investing/selling/obtaining more information.
+2. As a Returning Visitor, I want to understand what a HMO or Serviced Accommodation Property is.
+3. As a Returning Visitor, I want to see updated investment outcomes to see if the returns on investments have improved or diminished.
+4. As a Returning Visitor, I want to find social media links to see what the company is currently working on.
+5. As a Returning Visitor, I want to see what current investment opportunities are available.
 
->Frequent User Goals:
+Frequent User Goals:
 
->1. As a Frequent User, I want to check to see if there are any newly added investment opportunities.
->2. As a Frequent User, I want to check to see if there are any more examples of completed investments.
->3. As a Frequent User, I want to see if there are any new reviews to check the continued trustworthiness of the company.
->4. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
+1. As a Frequent User, I want to check to see if there are any newly added investment opportunities.
+2. As a Frequent User, I want to check to see if there are any more examples of completed investments.
+3. As a Frequent User, I want to see if there are any new reviews to check the continued trustworthiness of the company.
+4. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
 
 
 ### Scope
@@ -89,7 +89,7 @@ These wireframes represent the initial design ideas for the webpage.
 
 - The colour scheme was decided by taking colours from the Eternity Holdings Logo shown below.   
   
->><img src="assets/images/logo-9-only.png" alt="eternity holdings logo icon" width="100px" height="100px">
+  <img src="assets/images/logo-9-only.png" alt="eternity holdings logo icon" width="100px" height="100px">
 
 - The client expressed interest in keeping the site really clean and sophisticated and so the colour scheme was kept simple and based on a monochromatic feel with blue touches from the logo. Please see below for the colour palette.
 ![Eternity Holdings website colour palette](assets/images/Eternity-Holdings-Ltd-Colour-Scheme.png)
