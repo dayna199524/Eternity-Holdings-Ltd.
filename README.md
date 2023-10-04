@@ -219,8 +219,10 @@ These wireframes represent the initial design ideas for the webpage.
     - Microsoft Word was used to resize images and create the watermark logo used on the Invest/Sell page.
 9. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
-10. [Google DevTools]
-    - Google DevTools was used to test responsiveness and to see live changes I made to both the HTML and CSS code. It also helped me with debugging/fixing any issues that occured.
+10. Google DevTools:
+    - Google DevTools was used to test responsiveness and to see live changes I made to both the HTML and CSS code. It also helped me with debugging/fixing any issues that occured. Accessed by right clicking on any element and selecting inspect.
+
+***
 
 ## Testing
 
@@ -233,22 +235,31 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the company.
+   - The user is greeted with the hero image which expresses the main goals of the company - that if the user wishes to "invest smart" and "invest securely" they should "invest with us", that is Eternity Holdings Ltd.
+   - The hero image has a call to action button to "find out more" which will immediately take the user to the Invest/Sell page where they can find out more about the business.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
-        2. The main points are made immediately with the hero image
-        3. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
+2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+    - As soon as you enter the website, users are greeted with a clean and easily readable navigation bar with each of the three pages clearly labelled.
+    - Within each page, the content is presented in a 100% width column of sections with clear sub-headings so the user can easily scroll down to find the information they wish to read.
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+3. As a First Time Visitor, I want to know how trustworthy the business is. I want to look for testimonials to understand what their previous customers thought of them and I want to see evidence of previous investments either on the site or through social media presence. I also want to see if the company is a part of any accredited unions/organisations.
+   - We are relying on user familiarity wherby frequent practice is to place reviews/testimonials on the homepage. For those unused to this practice, the homepage contains few sections and it does not take long to scroll to the page and so these users would be likely to spot this section anyway.
+   - Previous investments/example deals can be found in the clearly labelled Invest/Sell page. However, there is scope to add a portfolio or 'past projects' page or section on this page in the future.
+   - Social media links and the organisation logo that Eternity Holdings is/will be a part of are displayed clearly in the footer and are active links that will take the user straight to the relevant pages. As of the moment, the company does not have a youtube account and so this link currently takes you to the Youtube homepage but the client wishes to link this to a specific account very soon in the future.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+4. As a First Time Visitor and potential investor/property seller, I want to easily find the company's contact details.
+    - The navbar has a clearly labelled link to the contact page.
+    - Strategically placed call to action contact buttons are placed throughout the site: on the hero image, in the footer and at the bottom of the overview header section of the Invest/Sell page.
 
-    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
-        1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-        2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+5. As a First Time Visitor and potential investor, I want to understand what type of investments Eternity Holdings Ltd. handles.
+    - The Invest/Sell page has an overview paragraph that immediately explains the two types of investment properties Eternity Holdings Ltd. works with. Further imformation is immediately provided underneath this section providing definitions of each in case the user is unfamiliar or wants more information.
+
+6. As a First Time Visitor looking to sell my property, I want to know what type of properties Eternity Holdings Ltd. is interested in buying.
+    - Same as above.
+
+7. As a First Time Visitor and investor, I want to know what profit I can make back from my investment.
+    - The Invest/Sell page contains example deals at the bottom of the page. However, this could be better explained by adding to the overview paragraph at the top of the page to indicate its existance or by placing into a separate sub-page in the future.
 
 - #### Returning Visitor Goals
 
