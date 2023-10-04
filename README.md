@@ -10,9 +10,9 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
 
 ***
 
-### User stories
+## User stories
 
-#### First Time Visitor Goals
+### First Time Visitor Goals
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the company.
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
@@ -22,7 +22,7 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
     6. As a First Time Visitor looking to sell my property, I want to know what type of properties Eternity Holdings Ltd. is interested in buying.
     7. As a First Time Visitor and investor, I want to know what profit I can make back from my investment.
 
-#### Returning Visitor Goals
+### Returning Visitor Goals
 
     1. As a Returning Visitor, I want to quickly get in touch with someone about investing/selling/obtaining more information.
     2. As a Returning Visitor, I want to see investment models/completed investment outcomes to see what sort of profit I can make from my investment with Eternity Holdings Ltd.
@@ -36,7 +36,7 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
     3. As a Frequent User, I want to see if there are any new reviews to check the continued trustworthiness of the company.
     4. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
 
-### Design
+## Design
 
 >#### Colour Scheme
 
@@ -56,19 +56,16 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
 
 >#### Imagery
   
-The hero image is a shot of one of the client's HMO properties which immediately displays the standard of work an investor can expect from the company.
+>The hero image is a shot of one of the client's HMO properties which immediately displays the standard of work an investor can expect from the company.
 
-However, as the company is just starting out, I have currently used placeholder images for both the testimonial portraits and the property type cards on the Invest/Sell page. All images are free to use but the credits have still been included at the bottom of this documentation.
+>However, as the company is just starting out, I have currently used placeholder images for both the testimonial portraits and the property type cards on the Invest/Sell page. All images are free to use but the credits have still been included at the bottom of this documentation.
 
-I also felt it important to use imagery of the company throughout the site and I have done this by adding a watermark of the logo behind the heading section of the Invest/Sell page and including the logo as an icon at the top of the contact form.
+>I also felt it important to use imagery of the company throughout the site and I have done this by adding a watermark of the logo behind the heading section of the Invest/Sell page and including the logo as an icon at the top of the contact form.
 
-### Wireframes
+## Wireframes
 
-  - Home Page Wireframe - [View](https://github.com/)
+All wireframes can be found in a combined document located [here.](assets/Wireframes/All-Wireframes-2.0.pdf)
 
-  - Mobile Wireframe - [View](https://github.com/)
-
-  - Contact Us Page Wireframe - [View](https://github.com/)
 
 ## Features
 
@@ -85,23 +82,21 @@ I also felt it important to use imagery of the company throughout the site and I
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+1. [Bootstrap v5.0:](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-1. [Font Awesome:](https://fontawesome.com/)
+2. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts was used to import the 'Montserraf' and 'DM Sans' fonts in varying weights into the style.css file which are used on all pages throughout the project.
+3. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
+5. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-1. [Git](https://git-scm.com/)
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-1. [GitHub:](https://github.com/)
+6. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Codeanywhere terminal to commit to Git and Push to GitHub.
+7. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
-1. [Balsamiq:](https://balsamiq.com/)
+8. [Microsoft Word](https://microsoft.com/en-gb/microsoft-365)
+    - Microsoft Word was used to resize images and create the watermark logo used on the Invest/Sell page.
+9. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
 ## Testing
