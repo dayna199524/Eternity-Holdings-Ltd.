@@ -14,6 +14,8 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
 
 ### Strategy
 
+This project website was created for a real client who wanted a website created for the Investment Business he is setting up. The purpose of the website is to attract potential investors for HMO's and Serviced Accomodation and anyone looking to sell properties that would be suitable for these types of investment models.
+
 >#### User Stories
 
 >First Time Visitor Goals:
@@ -29,9 +31,10 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
 >Returning Visitor Goals:
 
 >1. As a Returning Visitor, I want to quickly get in touch with someone about investing/selling/obtaining more information.
->2. As a Returning Visitor, I want to see investment models/completed investment outcomes to see what sort of profit I can make from my investment with Eternity Holdings Ltd.
->3. As a Returning Visitor, I want to find social media links to see what the company is currently working on.
->4. As a Returning Visitor, I want to see what current investment opportunities are available.
+>2. As a Returning Visitor, I want to understand what a HMO or Serviced Accommodation Property is.
+>3. As a Returning Visitor, I want to see investment models/completed investment outcomes to see what sort of profit I can make from my investment with Eternity Holdings Ltd.
+>4. As a Returning Visitor, I want to find social media links to see what the company is currently working on.
+>5. As a Returning Visitor, I want to see what current investment opportunities are available.
 
 >Frequent User Goals:
 
@@ -39,6 +42,28 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
 >2. As a Frequent User, I want to check to see if there are any more examples of completed investments.
 >3. As a Frequent User, I want to see if there are any new reviews to check the continued trustworthiness of the company.
 >4. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
+
+***
+### Scope
+
+After assessing the needs of both new, returning and frequent users myself and the client decided upon the following three pages:
+
+- Homepage
+- Invest/Sell page
+- Contact Page
+
+Features that we felt were important to include in these pages were:
+
+- An easy pathway to the contact page with further button links to the page strategically placed around the site, such as in the hero image and footer, to encourage the user to get in touch.
+- Relevant external links in the footer to social media pages and unions/organisations associated with the business.
+- A hero image with a catchy slogan to draw the user in and inspire confidence and trust in the business
+- Definitions for the two types of business models - HMO's and Serviced Accommodation - that the business specialises in.
+- A review section
+- Example investment outcomes
+- A section at the top of the Invest/Sell page that explains that the business not only is looking for investors but is also interested in buying suitable properties.
+- A contact form
+- Business operating hours
+- Contact details
 
 ### Design
 
