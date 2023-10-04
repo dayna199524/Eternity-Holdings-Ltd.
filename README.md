@@ -10,57 +10,59 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
 
 ***
 
-## User stories
+## User Experience - UX
 
-### First Time Visitor Goals
+### Strategy
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the company.
-    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-    3. As a First Time Visitor, I want to know how trustworthy the business is. I want to look for testimonials to understand what their previous customers thought of them and I want to see evidence of previous investments either on the site or through social media presence. I also want to see if the company is a part of any accredited unions/organisations.
-    4. As a First Time Visitor and potential investor/property seller, I want to easily find the company's contact details.
-    5. As a First Time Visitor and potential investor, I want to understand what type of investments Eternity Holdings Ltd. handles.
-    6. As a First Time Visitor looking to sell my property, I want to know what type of properties Eternity Holdings Ltd. is interested in buying.
-    7. As a First Time Visitor and investor, I want to know what profit I can make back from my investment.
+>#### User Stories
 
-### Returning Visitor Goals
+>First Time Visitor Goals:
 
-    1. As a Returning Visitor, I want to quickly get in touch with someone about investing/selling/obtaining more information.
-    2. As a Returning Visitor, I want to see investment models/completed investment outcomes to see what sort of profit I can make from my investment with Eternity Holdings Ltd.
-    3. As a Returning Visitor, I want to find social media links to see what the company is currently working on.
-    4. As a Returning Visitor, I want to see what current investment opportunities are available.
+>1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the company.
+>2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+>3. As a First Time Visitor, I want to know how trustworthy the business is. I want to look for testimonials to understand what their previous customers thought of them and I want to see evidence of previous investments either on the site or through social media presence. I also want to see if the company is a part of any accredited unions/organisations.
+>4. As a First Time Visitor and potential investor/property seller, I want to easily find the company's contact details.
+>5. As a First Time Visitor and potential investor, I want to understand what type of investments Eternity Holdings Ltd. handles.
+>6. As a First Time Visitor looking to sell my property, I want to know what type of properties Eternity Holdings Ltd. is interested in buying.
+>7. As a First Time Visitor and investor, I want to know what profit I can make back from my investment.
 
-#### Frequent User Goals
+>Returning Visitor Goals:
 
-    1. As a Frequent User, I want to check to see if there are any newly added investment opportunities.
-    2. As a Frequent User, I want to check to see if there are any more examples of completed investments.
-    3. As a Frequent User, I want to see if there are any new reviews to check the continued trustworthiness of the company.
-    4. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
+>1. As a Returning Visitor, I want to quickly get in touch with someone about investing/selling/obtaining more information.
+>2. As a Returning Visitor, I want to see investment models/completed investment outcomes to see what sort of profit I can make from my investment with Eternity Holdings Ltd.
+>3. As a Returning Visitor, I want to find social media links to see what the company is currently working on.
+>4. As a Returning Visitor, I want to see what current investment opportunities are available.
 
-## Design
+>Frequent User Goals:
 
->#### Colour Scheme
+>1. As a Frequent User, I want to check to see if there are any newly added investment opportunities.
+>2. As a Frequent User, I want to check to see if there are any more examples of completed investments.
+>3. As a Frequent User, I want to see if there are any new reviews to check the continued trustworthiness of the company.
+>4. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
 
->The colour scheme was decided by taking colours from the Eternity Holdings Logo shown below.  
+### Design
 
-><img src="assets/images/logo-9-only.png" alt="eternity holdings logo icon" width="100px" height="100px">
+>Colour Scheme
 
->The client expressed interest in keeping the site really clean and sophisticated and so the colour scheme was kept simple and based on a monochromatic feel with blue touches from the logo. Please see below for the colour palette.
+- The colour scheme was decided by taking colours from the Eternity Holdings Logo shown below.   
+<img src="assets/images/logo-9-only.png" alt="eternity holdings logo icon" width="100px" height="100px">
 
->![Eternity Holdings website colour palette](assets/images/Eternity-Holdings-Ltd-Colour-Scheme.png)
+- The client expressed interest in keeping the site really clean and sophisticated and so the colour scheme was kept simple and based on a monochromatic feel with blue touches from the logo. Please see below for the colour palette.
+![Eternity Holdings website colour palette](assets/images/Eternity-Holdings-Ltd-Colour-Scheme.png)
 
->#### Typography
+>Typography
 
->The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in the event the main font cannot be loaded into the site. It produces a clean, sophisticated and professional look, especially when combined with increased letter spacing as I have done throughout the website. 
+- The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in the event the main font cannot be loaded into the site. It produces a clean, sophisticated and professional look, especially when combined with increased letter spacing as I have done throughout the website. 
 
->DM Sans, with Sans Serif is additionally used for the hero image's slogan to created more impact for the user when landing on the homepage.
+- DM Sans, with Sans Serif is additionally used for the hero image's slogan to created more impact for the user when landing on the homepage.
 
->#### Imagery
+>Imagery
   
->The hero image is a shot of one of the client's HMO properties which immediately displays the standard of work an investor can expect from the company.
+- The hero image is a shot of one of the client's HMO properties which immediately displays the standard of work an investor can expect from the company.
 
->However, as the company is just starting out, I have currently used placeholder images for both the testimonial portraits and the property type cards on the Invest/Sell page. All images are free to use but the credits have still been included at the bottom of this documentation.
+- As the company is just starting out, I have currently used placeholder images for both the testimonial portraits and the property type cards on the Invest/Sell page. All images are free to use but the credits have still been included at the bottom of this documentation.
 
->I also felt it important to use imagery of the company throughout the site and I have done this by adding a watermark of the logo behind the heading section of the Invest/Sell page and including the logo as an icon at the top of the contact form.
+- I felt it important to use imagery of the company throughout the site and I have done this by adding a watermark of the logo behind the heading section of the Invest/Sell page and including the logo as an icon at the top of the contact form.
 
 ## Wireframes
 
