@@ -394,3 +394,5 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - My Mentor for their helpful feedback and information provision.
 
 - Iris Smok, our Cohort Facilitator for providing such informative stand-ups and helpful resources.
+
+- My friends for helping me to test the responsiveness of the website across their devices.
