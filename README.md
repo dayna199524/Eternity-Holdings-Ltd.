@@ -26,7 +26,7 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
   - [Colour Scheme](#colour-scheme)
   - [Typography](#typography)
   - [Imagery](#imagery)
-### [Features](#features)
+### [Features](#features-1)
 - [Sitewide](#sitewide)
 - [Homepage](#homepage)
 - [Invest/Sell Page](#investsell-page)
