@@ -366,6 +366,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Code
 
 - I based the layout of the hero overlay on the code found on [this page](https://mdbootstrap.com/docs/standard/extended/hero/).
+- I used the Club Ethos Center Content code from the [Love Running project](https://github.com/Code-Institute-Solutions/Love-Running-Solutions/tree/master/04_creating_the_club_ethos/04_club_ethos_center_content_1) from the coursework preceding this project to help me style the testimonial images into circles.
 - The basic sign-up form code was based upon the [Love Running Sign-Up Challenge](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/d533998456514d97a88ce691537e00a6/).
 
 - [Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap Library used throughout the project for styling classes and responsiveness using the Bootstrap Grid System.
