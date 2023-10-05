@@ -117,25 +117,25 @@ These wireframes represent the initial design ideas for the webpage.
 <details>
     <summary>Desktop Navbar</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/desktop-navbar.png" alt="image of website desktop navbar">
 </details>
 
 <details>
     <summary>Mobile/Small Screen Size Navbar</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/mobile-navbar.png" alt="image of mobile navbar">
 </details>
 
 <details>
     <summary>Footer</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/desktop-footer.png" alt="image of desktop footer">
 </details>
 
 <details>
     <summary>Mobile/Small Screen Size Footer</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/mobile-footer.png" alt="image of mobile footer">
 </details>
 
 ### Homepage
@@ -143,19 +143,19 @@ These wireframes represent the initial design ideas for the webpage.
 <details>
     <summary>Hero Image</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/hero-image-screenshot.png" alt="image of the hero image on the homepage">
 </details>
 
 <details>
     <summary>Three Reasons Why</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/three-reasons-screenshot.png" alt="image of three reasons why section from homepage">
 </details>
 
 <details>
     <summary>Testimonials</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/testimonials-screenshot.png" alt="image of testimonials section from homepage">
 </details>
 
 ### Invest/Sell Page
@@ -163,19 +163,19 @@ These wireframes represent the initial design ideas for the webpage.
 <details>
     <summary>Overview Heading Section</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/invest-sell-overview-screenshot.png" alt="image of overview head section of invest/sell page">
 </details>
 
 <details>
     <summary>Types of Accommodation</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/property-types-screenshot.png" alt="image of types of accomodation section from invest/sell page">
 </details>
 
 <details>
     <summary>Example Deals</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/example-deal-screenshot.png" alt="image of example deal one section from invest/sell page">
 </details>
 
 ### Contact Page
@@ -183,13 +183,13 @@ These wireframes represent the initial design ideas for the webpage.
 <details>
     <summary>Contact Form</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/contact-form-screenshot.png" alt="image of contact form from contact page">
 </details>
 
 <details>
     <summary>Contact Details/Working Hours</summary>
     <br>
-    <img src="#" alt="#">
+    <img src="assets/images/contact-details-screenshot.png" alt="image of contact details and working hours section from contact page">
 </details>
 
 ***
