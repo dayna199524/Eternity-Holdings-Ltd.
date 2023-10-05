@@ -87,7 +87,6 @@ This project website was created for a real client who wanted a website created 
 3. As a Frequent User, I want to see if there are any new reviews to check the continued trustworthiness of the company.
 4. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
 
-
 ### Scope
 
 After assessing the needs of both new, returning and frequent users myself and the client decided upon the following 'must have' features to be included across the website:
@@ -151,6 +150,8 @@ These wireframes represent the initial design ideas for the webpage.
 - As the company is just starting out, I have currently used placeholder images for both the testimonial portraits and the property type cards on the Invest/Sell page. All images are free to use but the credits have still been included at the bottom of this documentation.
 
 - I felt it important to use imagery of the company throughout the site and I have done this by adding a watermark of the logo behind the heading section of the Invest/Sell page and including the logo as an icon at the top of the contact form.
+
+[Return to top ↑](#contents)
 
 ***
 
@@ -236,6 +237,8 @@ These wireframes represent the initial design ideas for the webpage.
     <img src="assets/images/contact-details-screenshot.png" alt="image of contact details and working hours section from contact page">
 </details>
 
+[Return to top ↑](#contents)
+
 ***
 
 ## Technologies Used
@@ -265,6 +268,8 @@ These wireframes represent the initial design ideas for the webpage.
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 10. Google DevTools:
     - Google DevTools was used to test responsiveness and to see live changes I made to both the HTML and CSS code. It also helped me with debugging/fixing any issues that occured. Accessed by right clicking on any element and selecting inspect.
+
+[Return to top ↑](#contents)
 
 ***
 
@@ -353,6 +358,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - When landscape on iPhone 13 there is white space either side of the page to prevent the webpage from going underneath the camera area where the screen wraps around it. This is potentially a formatting produced by iOS which I currently do not have the knowledge to overwrite but it could be worth exploring in the future. However, the formatting, despite this white space still looks good overall and there isn't any side scrolling needed.
 - After replacing lorem text in the review containers in the Testimonials section of the homepage, despite there being a gx-0 class in all the rows on the homepage, a gutter still began appearing on the right-hand-side of the page. DevTools presented it as struck out and overwritten with the gx-0 class but the gutter still wouldn't disappear without writing a new css rule at the bottom of the style sheet of .row {--bs-gutter-x: 0;}. Whilst this fixed the problem, I am still unsure as to what caused it in the first place.
 
+[Return to top ↑](#contents)
+
 ***
 
 ## Deployment
@@ -403,6 +410,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
+[Return to top ↑](#contents)
+
 ***
 
 ## Credits
@@ -439,6 +448,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - Colour palette for website shown above in the Surface section was created using [coolors](https://coolors.co/).
 - I used [IMAGECOLORPICKER.COM](https://imagecolorpicker.com/en#google_vignette) to find the hex codes for the blues in the the company's logo I wanted to use in the colour palette.
 
+[Return to top ↑](#contents)
+
 ***
 
 ### Acknowledgements
@@ -448,3 +459,5 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - Iris Smok, our Cohort Facilitator for providing such informative stand-ups and helpful resources.
 
 - My friends for helping me to test the responsiveness of the website across their devices.
+
+[Return to top ↑](#contents)
