@@ -308,6 +308,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - When landscape on iPhone 13 there is white space either side of the page to prevent the webpage from going underneath the camera area where the screen wraps around it. This is potentially a formatting produced by iOS which I currently do not have the knowledge to overwrite but it could be worth exploring in the future. However, the formatting, despite this white space still looks good overall and there isn't any side scrolling needed.
 - After replacing lorem text in the review containers in the Testimonials section of the homepage, despite there being a gx-0 class in all the rows on the homepage, a gutter still began appearing on the right-hand-side of the page. DevTools presented it as struck out and overwritten with the gx-0 class but the gutter still wouldn't disappear without writing a new css rule at the bottom of the style sheet of .row {--bs-gutter-x: 0;}. Whilst this fixed the problem, I am still unsure as to what caused it in the first place.
 
+***
+
 ## Deployment
 
 ### GitHub Pages
@@ -356,6 +358,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
+***
+
 ## Credits
 
 ### Code
@@ -388,6 +392,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - Colour palette for website shown above in the Surface section was created using [coolors](https://coolors.co/).
 - I used [IMAGECOLORPICKER.COM](https://imagecolorpicker.com/en#google_vignette) to find the hex codes for the blues in the the company's logo I wanted to use in the colour palette.
+
+***
 
 ### Acknowledgements
 
