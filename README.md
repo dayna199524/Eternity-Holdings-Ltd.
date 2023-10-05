@@ -14,7 +14,7 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
 
 ### [User Experience](#user-experience-ux)
 - [Strategy](#strategy)
-- [User Stories](#user-stories)
+  - [User Stories](#user-stories)
 - [Scope](#scope)
 - [Structure](#structure)
 - [Skeleton](#skeleton)
