@@ -10,15 +10,56 @@ This is the documentation for the website for Eternity Holdings Limited. The sit
 
 ***
 
+## Contents
+
+### [User Experience](#user-experience-ux)
+- [Strategy](#strategy)
+- [User Stories](#user-stories)
+- [Scope](#scope)
+- [Structure](#structure)
+- [Skeleton](#skeleton)
+  - [Wireframes](#wireframes)
+- [Surface \(Design)](#surface-design)
+  - [Colour Scheme](#colour-scheme)
+  - [Typography](#typography)
+  - [Imagery](#imagery)
+### [Features](#features)
+- [Sitewide](#sitewide)
+- [Homepage](#homepage)
+- [Invest/Sell Page](#investsell-page)
+- [Contact Page](#contact-page)
+### [Technologies Used](#technologies-used)
+- [Languages used](#languages-used)
+- [Frameworks, Libraries and Programs Used](#frameworks-libraries--programs-used)
+### [Testing](#testing)
+- [Testing User Stories from User Experience \(UX) Section](#testing-user-stories-from-user-experience-ux-section)
+  - [First Time Visitor Goals](#first-time-visitor-goals)
+  - [Returning Visitor Goals](#returning-visitor-goals)
+  - [Frequent User Goals](#frequent-user-goals)
+- [Further Testing](#further-testing)
+- [Known Bugs](#known-bugs)
+### [Deployment](#deployment)
+- [GitHub Pages](#github-pages)
+- [Forking the GitHub Repository](#forking-the-github-repository)
+- [Making a Local Clone](#making-a-local-clone)
+### [Credits](#credits)
+- [Code](#code)
+- [Content](#content)
+- [Media](#media)
+- [Further Credits](#further-credits)
+### [Acknowledgements](#acknowledgements)
+
+***
+
 ## User Experience \(UX)
 
 ### Strategy
 
 This project website was created for a real client who wanted a website created for the Investment Business he is setting up. The purpose of the website is to attract potential investors for HMO's and Serviced Accomodation and anyone looking to sell properties that would be suitable for these types of investment models.
 
->#### User Stories
+#### User Stories
 
-First Time Visitor Goals:
+##### First Time Visitor Goals:
 
 1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the company.
 2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
@@ -28,7 +69,7 @@ First Time Visitor Goals:
 6. As a First Time Visitor looking to sell my property, I want to know what type of properties Eternity Holdings Ltd. is interested in buying.
 7. As a First Time Visitor and investor, I want to know what profit I can make back from my investment.
 
-Returning Visitor Goals:
+##### Returning Visitor Goals:
 
 1. As a Returning Visitor, I want to quickly get in touch with someone about investing/selling/obtaining more information.
 2. As a Returning Visitor, I want to understand what a HMO or Serviced Accommodation Property is.
@@ -36,7 +77,7 @@ Returning Visitor Goals:
 4. As a Returning Visitor, I want to find social media links to see what the company is currently working on.
 5. As a Returning Visitor, I want to see what current investment opportunities are available.
 
-Frequent User Goals:
+##### Frequent User Goals:
 
 1. As a Frequent User, I want to check to see if there are any newly added investment opportunities.
 2. As a Frequent User, I want to check to see if there are any more examples of completed investments.
