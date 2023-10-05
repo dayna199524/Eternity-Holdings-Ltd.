@@ -226,13 +226,14 @@ These wireframes represent the initial design ideas for the webpage.
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project. Additionally, I used a11y Colour Contrast Accessibility Validator to check the contrast between all of the font and background colours used across the website.
 
 - [W3C Markup Validator](https://validator.w3.org/#validate_by_input)
     - Homepage - no errors found.
     - Invest/Sell page - no errors found.
     - Contact page - no errors found.
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - no errors found.
+- [a11y](https://color.a11y.com/) - no issues with colour contrast for accessibility.
 
 ### Testing User Stories from User Experience (UX) Section
 
