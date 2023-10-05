@@ -87,6 +87,8 @@ This project website was created for a real client who wanted a website created 
 3. As a Frequent User, I want to see if there are any new reviews to check the continued trustworthiness of the company.
 4. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
 
+[Return to top ↑](#contents)
+
 ### Scope
 
 After assessing the needs of both new, returning and frequent users myself and the client decided upon the following 'must have' features to be included across the website:
@@ -117,6 +119,8 @@ The client wished to have an area where example deals and past projects/a portfo
 Original name suggestions, including 'Example Deals', 'Portfolio' and 'Investments'. Eventually we decided on the simple "Invest/Sell" as the user can immediately see in the navbar that the company also wishes to buy propeties and that this page will contain information about both investing and selling.
 
 Unfortunately, there is still an issue once smaller screen sizes come into play as the collapsed navbar prevent the user from immediately seeing there is an option to 'sell' and this is something to be discussed further with the client in the future to ensure all the needs of the business strategy are met.
+
+[Return to top ↑](#contents)
 
 ### Skeleton
 
@@ -345,6 +349,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 5. As a Frequent User, I'd like to sign up for a newsletter or be kept informed of investment opportunities.
     - This isn't yet possible for me as a student developer as I have not yet learned the relevant material for providing a sign up link where updates can be automatically sent out to users who have signed up by the client.
+
+[Return to top ↑](#contents)
 
 ### Further Testing
 
